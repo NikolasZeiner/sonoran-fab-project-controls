@@ -57,7 +57,7 @@ The full written summary is in [`report/Findings_Summary_2026-09-25.pdf`](report
 
 **Report features:** Area (multi-select) and Week Ending parameters, grouped page breaks, conditional formatting, repeating table headers, and PDF export.
 
-The exported report is in [`report/SonoranFab_Weekly_Report_2026-09-25.pdf`](report/SonoranFab_Weekly_Report_2026-09-25.pdf).
+The exported report is in [`report/SonoranFab_Weekly_Report_2026-09-25.pdf`](report/SonoranFab_Weekly_Report.pdf).
 
 ---
 
