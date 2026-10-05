@@ -1,0 +1,451 @@
+po_number,area_id,supplier_id,discipline,category,item_description,quantity,unit_cost,total_cost,order_date,need_by_date,promised_date,actual_delivery_date,status
+PO-26001,A1,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),773,157.39,121662.47,2025-10-25,2026-01-18,2025-12-21,2025-12-23,Delivered
+PO-26002,A1,S01,Civil/Structural,Structural Steel,Wide-flange steel beams,19,8089.43,153699.17,2025-12-13,2026-03-07,2026-02-10,2026-02-09,Delivered
+PO-26003,A2,S05,Mechanical,Mechanical,Centrifugal chiller,1,570426.28,570426.28,2026-01-23,2026-05-23,2026-05-12,2026-05-10,Delivered
+PO-26004,A4,S02,Civil/Structural,Concrete,Rebar (tons),127,1136.1,144284.7,2026-04-26,2026-06-21,2026-06-13,2026-06-11,Delivered
+PO-26005,A1,S10,Mechanical,Mechanical,Cooling tower cell,2,242651.33,485302.66,2025-12-28,2026-07-18,2026-07-04,2026-07-08,Delivered
+PO-26006,A2,S05,Mechanical,Mechanical,Exhaust fan,20,9606.58,192131.6,2025-12-19,2026-02-26,2026-02-13,2026-02-15,Delivered
+PO-26007,A1,S09,Mechanical,General,Scaffolding rental,5,14023.76,70118.8,2026-08-19,2026-10-21,2026-09-22,,In Transit
+PO-26008,A5,S06,Process Piping,Process Piping,Pipe supports,324,198.75,64395.0,2026-02-11,2026-04-04,2026-03-10,2026-03-09,Delivered
+PO-26009,A2,S04,Electrical,Electrical,Lighting panelboard,15,6598.93,98983.95,2026-06-28,2026-08-22,2026-08-19,2026-08-21,Delivered
+PO-26010,A3,S01,Civil/Structural,Structural Steel,Wide-flange steel beams,17,7481.57,127186.69,2026-07-05,2026-08-09,2026-07-23,2026-07-25,Delivered
+PO-26011,A5,S09,Electrical,General,Safety supplies kit,54,786.42,42466.68,2026-07-28,2026-09-09,2026-09-01,,Cancelled
+PO-26012,A1,S05,Mechanical,Mechanical,Pump skid,7,56654.64,396582.48,2026-07-20,2026-09-16,2026-08-22,2026-08-21,Delivered
+PO-26013,A5,S03,Electrical,Electrical,Lighting panelboard,23,6838.2,157278.6,2026-07-06,2026-08-29,2026-09-06,2026-09-10,Delivered
+PO-26014,A1,S04,Electrical,Electrical,Medium-voltage switchgear lineup,1,430423.78,430423.78,2026-05-09,2026-11-26,2026-11-19,,Open
+PO-26015,A2,S09,Mechanical,General,Safety supplies kit,32,928.14,29700.48,2026-06-06,2026-09-01,2026-08-05,2026-08-06,Delivered
+PO-26016,A1,S06,Process Piping,Process Piping,Pipe supports,665,209.86,139556.9,2025-10-05,2025-11-14,2025-11-09,2025-11-11,Delivered
+PO-26017,A5,S02,Civil/Structural,Concrete,Precast wall panels,34,6177.39,210031.26,2026-02-19,2026-03-30,2026-03-09,2026-03-08,Delivered
+PO-26018,A4,S10,Mechanical,Mechanical,Pump skid,5,60066.51,300332.55,2025-12-09,2026-01-06,2025-12-29,2025-12-30,Delivered
+PO-26019,A4,S01,Civil/Structural,Structural Steel,Wide-flange steel beams,14,8481.66,118743.24,2025-10-28,2025-12-07,2025-11-26,2025-11-25,Delivered
+PO-26020,A2,S05,Mechanical,Mechanical,Exhaust fan,12,10810.56,129726.72,2026-06-11,2026-07-07,2026-07-01,2026-06-29,Delivered
+PO-26021,A5,S04,Electrical,Electrical,Dry-type transformer,5,38224.16,191120.8,2025-10-03,2025-11-13,2025-11-25,2025-11-25,Delivered
+PO-26022,A5,S08,Mechanical,Mechanical,Cooling tower cell,2,255440.27,510880.54,2026-06-14,2027-01-01,2026-12-05,,Open
+PO-26023,A2,S01,Civil/Structural,Structural Steel,Wide-flange steel beams,38,7300.61,277423.18,2026-05-18,2026-07-14,2026-08-10,2026-08-08,Delivered
+PO-26024,A2,S02,Civil/Structural,Concrete,Precast wall panels,14,7082.4,99153.6,2026-06-21,2026-08-12,2026-07-20,2026-07-21,Delivered
+PO-26025,A3,S10,Mechanical,Mechanical,Pump skid,4,53612.63,214450.52,2026-02-10,2026-03-24,2026-04-27,2026-04-30,Delivered
+PO-26026,A2,S06,Process Piping,Process Piping,Stainless pipe (ft),1850,64.27,118899.5,2025-10-24,2025-12-03,2025-11-11,2025-11-10,Delivered
+PO-26027,A5,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),506,154.23,78040.38,2026-08-29,2026-10-25,2026-10-01,,In Transit
+PO-26028,A1,S05,Mechanical,Mechanical,Centrifugal chiller,2,567021.87,1134043.74,2025-10-27,2026-05-22,2026-04-30,2026-05-02,Delivered
+PO-26029,A2,S06,Process Piping,Process Piping,PVDF pipe (ft),3674,52.21,191819.54,2026-01-09,2026-02-02,2026-01-26,,Cancelled
+PO-26030,A3,S03,Electrical,Electrical,Cable tray (ft),1336,27.92,37301.12,2026-06-17,2026-07-09,2026-08-19,2026-08-18,Delivered
+PO-26031,A1,S06,Process Piping,Process Piping,Isolation valve,95,1889.65,179516.75,2026-03-08,2026-04-09,2026-03-24,2026-03-27,Delivered
+PO-26032,A5,S09,Mechanical,General,Temporary power equipment,4,23427.47,93709.88,2025-11-25,2026-01-07,2026-02-10,2026-02-10,Delivered
+PO-26033,A1,S07,Process Piping,Process Piping,PVDF pipe (ft),2160,51.51,111261.6,2025-09-22,2025-11-17,2025-11-05,2025-11-05,Delivered
+PO-26034,A1,S04,Electrical,Electrical,Dry-type transformer,2,35814.57,71629.14,2025-10-08,2025-11-24,2025-12-08,2025-12-11,Delivered
+PO-26035,A5,S09,Mechanical,General,Temporary power equipment,4,20358.25,81433.0,2026-06-27,2026-08-02,2026-08-28,2026-08-28,Delivered
+PO-26036,A2,S06,Process Piping,Process Piping,Pipe supports,507,212.63,107803.41,2026-06-25,2026-08-03,2026-08-22,2026-08-20,Delivered
+PO-26037,A3,S09,Electrical,General,Scaffolding rental,9,14885.21,133966.89,2026-04-11,2026-05-25,2026-04-29,2026-05-02,Delivered
+PO-26038,A2,S05,Mechanical,Mechanical,Pump skid,4,55431.4,221725.6,2026-02-01,2026-03-31,2026-05-08,2026-05-09,Delivered
+PO-26039,A5,S03,Electrical,Electrical,Lighting panelboard,16,6133.89,98142.24,2026-02-05,2026-03-20,2026-03-09,2026-03-10,Delivered
+PO-26040,A4,S04,Electrical,Electrical,Lighting panelboard,14,6809.21,95328.94,2025-11-28,2026-01-30,2026-03-11,2026-03-14,Delivered
+PO-26041,A1,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),724,156.65,113414.6,2025-09-15,2025-10-13,2025-10-01,2025-10-02,Delivered
+PO-26042,A2,S10,Mechanical,Mechanical,Air handling unit,5,142748.91,713744.55,2025-11-17,2026-06-05,2026-08-18,2026-08-22,Delivered
+PO-26043,A3,S02,Civil/Structural,Concrete,Rebar (tons),59,1184.59,69890.81,2026-04-28,2026-06-06,2026-05-15,2026-05-16,Delivered
+PO-26044,A5,S08,Mechanical,Mechanical,Pump skid,9,57735.97,519623.73,2026-04-17,2026-07-07,2026-06-09,2026-06-13,Delivered
+PO-26045,A1,S08,Mechanical,Mechanical,Air handling unit,5,145642.11,728210.55,2026-01-07,2026-08-17,2026-07-23,2026-07-26,Delivered
+PO-26046,A1,S08,Mechanical,Mechanical,Centrifugal chiller,1,580469.04,580469.04,2026-06-06,2026-09-23,2026-11-07,,Open
+PO-26047,A2,S04,Electrical,Electrical,Medium-voltage switchgear lineup,2,408573.44,817146.88,2025-10-04,2026-02-15,2026-05-11,2026-05-13,Delivered
+PO-26048,A1,S01,Civil/Structural,Structural Steel,Embed plates,291,166.11,48338.01,2026-03-21,2026-05-22,2026-04-30,2026-05-01,Delivered
+PO-26049,A3,S07,Process Piping,Process Piping,Pipe supports,195,204.53,39883.35,2026-03-29,2026-06-07,2026-05-28,2026-05-30,Delivered
+PO-26050,A3,S07,Process Piping,Process Piping,Isolation valve,96,1721.33,165247.68,2025-11-11,2026-01-03,2026-01-22,2026-01-22,Delivered
+PO-26051,A4,S06,Process Piping,Process Piping,Control valve,39,7277.22,283811.58,2026-04-06,2026-05-13,2026-05-06,2026-05-06,Delivered
+PO-26052,A1,S02,Civil/Structural,Concrete,Precast wall panels,13,5894.37,76626.81,2025-09-13,2025-11-14,2025-11-05,2025-11-08,Delivered
+PO-26053,A1,S04,Electrical,Electrical,Feeder cable (ft),11154,14.96,166863.84,2026-07-10,2026-09-15,2026-09-07,2026-09-07,Delivered
+PO-26054,A2,S01,Civil/Structural,Structural Steel,Roof deck panels,163,1319.72,215114.36,2025-12-13,2026-01-23,2025-12-31,2025-12-29,Delivered
+PO-26055,A2,S05,Mechanical,Mechanical,Pump skid,8,60209.52,481676.16,2025-09-24,2025-11-21,2025-10-30,2025-10-28,Delivered
+PO-26056,A1,S06,Process Piping,Process Piping,Stainless pipe (ft),6387,67.02,428056.74,2026-03-07,2026-05-19,2026-04-30,2026-04-29,Delivered
+PO-26057,A2,S05,Mechanical,Mechanical,Pump skid,8,57030.29,456242.32,2026-04-14,2026-07-06,2026-06-13,2026-06-17,Delivered
+PO-26058,A3,S05,Mechanical,Mechanical,Exhaust fan,12,9821.91,117862.92,2026-03-16,2026-04-25,2026-04-20,2026-04-19,Delivered
+PO-26059,A3,S06,Process Piping,Process Piping,Control valve,24,8093.16,194235.84,2026-01-22,2026-03-17,2026-03-12,2026-03-10,Delivered
+PO-26060,A2,S07,Process Piping,Process Piping,Pipe supports,479,200.1,95847.9,2026-05-12,2026-07-23,2026-07-16,2026-07-15,Delivered
+PO-26061,A2,S04,Electrical,Electrical,Cable tray (ft),2692,27.47,73949.24,2026-02-26,2026-05-06,2026-05-05,2026-05-08,Delivered
+PO-26062,A1,S05,Mechanical,Mechanical,Cooling tower cell,1,243496.99,243496.99,2026-06-04,2027-01-04,2026-12-08,,Open
+PO-26063,A5,S10,Mechanical,Mechanical,Pump skid,6,62479.89,374879.34,2026-02-01,2026-03-17,2026-03-06,2026-03-09,Delivered
+PO-26064,A3,S05,Mechanical,Mechanical,Centrifugal chiller,2,623260.77,1246521.54,2025-11-06,2026-05-25,2026-04-26,2026-04-28,Delivered
+PO-26065,A1,S08,Mechanical,Mechanical,Exhaust fan,14,10901.61,152622.54,2026-05-05,2026-06-02,2026-05-26,2026-05-28,Delivered
+PO-26066,A1,S01,Civil/Structural,Structural Steel,Steel columns,13,9726.33,126442.29,2026-01-08,2026-02-20,2026-01-29,2026-02-02,Delivered
+PO-26067,A2,S08,Mechanical,Mechanical,Exhaust fan,13,10088.86,131155.18,2026-06-21,2026-08-19,2026-08-13,2026-08-17,Delivered
+PO-26068,A1,S04,Electrical,Electrical,Cable tray (ft),2683,26.17,70214.11,2025-10-11,2025-11-09,2025-12-23,2025-12-25,Delivered
+PO-26069,A5,S01,Civil/Structural,Structural Steel,Steel columns,16,9140.88,146254.08,2025-10-09,2025-12-17,2025-12-05,2025-12-06,Delivered
+PO-26070,A1,S04,Electrical,Electrical,Dry-type transformer,8,41110.64,328885.12,2025-11-26,2026-01-22,2025-12-29,2025-12-30,Delivered
+PO-26071,A2,S05,Mechanical,Mechanical,Exhaust fan,27,9899.02,267273.54,2025-10-14,2025-12-11,2025-12-05,2025-12-07,Delivered
+PO-26072,A2,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),932,178.85,166688.2,2025-09-13,2025-11-22,2025-11-09,2025-11-10,Delivered
+PO-26073,A3,S08,Mechanical,Mechanical,Cooling tower cell,1,236617.68,236617.68,2026-05-12,2026-09-10,2026-08-21,2026-08-21,Delivered
+PO-26074,A3,S03,Electrical,Electrical,Cable tray (ft),2011,28.25,56810.75,2026-03-27,2026-05-21,2026-05-15,2026-05-15,Delivered
+PO-26075,A5,S07,Process Piping,Process Piping,Isolation valve,125,1710.48,213810.0,2026-04-27,2026-06-12,2026-07-04,2026-07-06,Delivered
+PO-26076,A5,S08,Mechanical,Mechanical,Centrifugal chiller,1,622705.28,622705.28,2026-04-15,2026-10-31,2027-01-04,,Open
+PO-26077,A1,S03,Electrical,Electrical,Cable tray (ft),2387,28.6,68268.2,2025-10-31,2025-12-21,2025-12-13,2025-12-14,Delivered
+PO-26078,A2,S05,Mechanical,Mechanical,Pump skid,7,55518.84,388631.88,2026-05-02,2026-06-19,2026-05-31,2026-05-30,Delivered
+PO-26079,A1,S09,Process Piping,General,Scaffolding rental,10,15261.2,152612.0,2026-02-24,2026-04-24,2026-04-11,2026-04-14,Delivered
+PO-26080,A1,S10,Mechanical,Mechanical,Pump skid,9,56432.37,507891.33,2026-06-05,2026-08-04,2026-09-10,2026-09-12,Delivered
+PO-26081,A2,S06,Process Piping,Process Piping,PVDF pipe (ft),4730,45.72,216255.6,2026-04-01,2026-05-02,2026-04-17,2026-04-18,Delivered
+PO-26082,A5,S03,Electrical,Electrical,Feeder cable (ft),14020,12.99,182119.8,2026-02-19,2026-03-30,2026-04-14,2026-04-12,Delivered
+PO-26083,A1,S07,Process Piping,Process Piping,PVDF pipe (ft),1469,51.45,75580.05,2026-07-19,2026-10-02,2026-09-15,2026-09-19,Delivered
+PO-26084,A5,S09,Process Piping,General,Temporary power equipment,4,22833.71,91334.84,2026-06-07,2026-07-17,2026-08-07,2026-08-10,Delivered
+PO-26085,A3,S04,Electrical,Electrical,Medium-voltage switchgear lineup,2,387096.14,774192.28,2025-10-24,2026-03-29,2026-03-19,2026-03-17,Delivered
+PO-26086,A1,S01,Civil/Structural,Structural Steel,Roof deck panels,124,1193.7,148018.8,2026-04-01,2026-06-16,2026-05-21,2026-05-20,Delivered
+PO-26087,A2,S07,Process Piping,Process Piping,Isolation valve,109,1918.02,209064.18,2025-12-30,2026-03-08,2026-02-11,,Cancelled
+PO-26088,A2,S08,Mechanical,Mechanical,Cooling tower cell,2,214993.57,429987.14,2026-02-26,2026-08-24,2026-08-10,2026-08-13,Delivered
+PO-26089,A1,S05,Mechanical,Mechanical,Air handling unit,7,157721.4,1104049.8,2026-03-17,2026-09-12,2026-08-27,2026-08-25,Delivered
+PO-26090,A4,S07,Process Piping,Process Piping,Control valve,12,8068.33,96819.96,2025-09-28,2025-12-17,2025-11-19,2025-11-23,Delivered
+PO-26091,A1,S10,Mechanical,Mechanical,Cooling tower cell,1,216620.68,216620.68,2026-08-06,2027-02-08,2027-01-30,,Open
+PO-26092,A1,S01,Civil/Structural,Structural Steel,Roof deck panels,191,1103.8,210825.8,2026-04-03,2026-05-09,2026-04-28,2026-04-30,Delivered
+PO-26093,A2,S05,Mechanical,Mechanical,Air handling unit,3,156807.61,470422.83,2026-02-01,2026-08-20,2026-08-05,2026-08-03,Delivered
+PO-26094,A2,S04,Electrical,Electrical,Feeder cable (ft),14046,15.08,211813.68,2026-03-24,2026-04-20,2026-05-11,2026-05-11,Delivered
+PO-26095,A2,S05,Mechanical,Mechanical,Pump skid,5,58266.93,291334.65,2026-08-14,2026-10-01,2026-10-21,,Open
+PO-26096,A3,S04,Electrical,Electrical,Medium-voltage switchgear lineup,2,420898.32,841796.64,2026-08-01,2026-12-29,2026-12-30,,Open
+PO-26097,A2,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),409,168.01,68716.09,2026-03-11,2026-06-03,2026-05-06,2026-05-08,Delivered
+PO-26098,A3,S03,Electrical,Electrical,Feeder cable (ft),10673,15.17,161909.41,2026-01-24,2026-03-08,2026-02-09,2026-02-10,Delivered
+PO-26099,A5,S06,Process Piping,Process Piping,Stainless pipe (ft),7097,60.81,431568.57,2026-07-30,2026-09-10,2026-09-04,2026-09-02,Delivered
+PO-26100,A2,S08,Mechanical,Mechanical,Centrifugal chiller,1,635116.74,635116.74,2025-09-13,2026-01-17,2025-12-18,2025-12-22,Delivered
+PO-26101,A5,S02,Civil/Structural,Concrete,Precast wall panels,19,6158.81,117017.39,2026-02-18,2026-04-12,2026-03-13,2026-03-13,Delivered
+PO-26102,A1,S03,Electrical,Electrical,Dry-type transformer,6,40875.58,245253.48,2025-09-16,2025-10-13,2025-10-08,2025-10-10,Delivered
+PO-26103,A2,S03,Electrical,Electrical,Cable tray (ft),1041,29.77,30990.57,2025-10-05,2025-12-07,2025-11-18,2025-11-19,Delivered
+PO-26104,A3,S10,Mechanical,Mechanical,Centrifugal chiller,1,670954.48,670954.48,2026-02-04,2026-07-27,2026-07-02,2026-07-03,Delivered
+PO-26105,A1,S07,Process Piping,Process Piping,Stainless pipe (ft),4447,68.21,303329.87,2025-10-14,2025-12-11,2025-11-30,2025-11-30,Delivered
+PO-26106,A2,S10,Mechanical,Mechanical,Pump skid,7,55092.74,385649.18,2026-01-31,2026-04-05,2026-03-26,2026-03-30,Delivered
+PO-26107,A5,S09,Process Piping,General,Scaffolding rental,10,13924.62,139246.2,2026-02-23,2026-04-24,2026-04-07,2026-04-07,Delivered
+PO-26108,A2,S05,Mechanical,Mechanical,Cooling tower cell,3,241753.14,725259.42,2025-10-19,2026-05-10,2026-05-20,2026-05-23,Delivered
+PO-26109,A2,S03,Electrical,Electrical,Lighting panelboard,7,6884.84,48193.88,2026-08-12,2026-09-20,2026-09-02,2026-09-06,Delivered
+PO-26110,A2,S01,Civil/Structural,Structural Steel,Roof deck panels,168,1172.83,197035.44,2025-12-20,2026-02-07,2026-01-12,2026-01-12,Delivered
+PO-26111,A4,S06,Process Piping,Process Piping,Stainless pipe (ft),5918,63.63,376562.34,2026-06-17,2026-09-02,2026-08-09,2026-08-11,Delivered
+PO-26112,A1,S05,Mechanical,Mechanical,Centrifugal chiller,1,643302.18,643302.18,2026-02-23,2026-07-12,2026-07-07,2026-07-09,Delivered
+PO-26113,A1,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),773,183.78,142061.94,2026-06-01,2026-07-15,2026-06-28,2026-06-27,Delivered
+PO-26114,A1,S06,Process Piping,Process Piping,Isolation valve,100,2079.24,207924.0,2026-07-16,2026-08-28,2026-09-04,2026-09-07,Delivered
+PO-26115,A2,S10,Mechanical,Mechanical,Exhaust fan,16,9284.77,148556.32,2026-02-26,2026-04-16,2026-05-26,2026-05-28,Delivered
+PO-26116,A1,S05,Mechanical,Mechanical,Centrifugal chiller,1,681112.61,681112.61,2025-12-16,2026-05-04,2026-04-23,2026-04-23,Delivered
+PO-26117,A2,S01,Civil/Structural,Structural Steel,Embed plates,388,140.8,54630.4,2026-08-29,2026-10-17,2026-09-26,2026-09-24,Delivered
+PO-26118,A5,S01,Civil/Structural,Structural Steel,Embed plates,126,165.4,20840.4,2026-06-24,2026-08-27,2026-08-04,2026-08-04,Delivered
+PO-26119,A2,S01,Civil/Structural,Structural Steel,Roof deck panels,90,1330.17,119715.3,2026-08-22,2026-10-05,2026-09-28,,In Transit
+PO-26120,A4,S07,Process Piping,Process Piping,Isolation valve,44,2073.88,91250.72,2025-12-25,2026-02-27,2026-03-07,2026-03-10,Delivered
+PO-26121,A4,S09,Mechanical,General,Safety supplies kit,66,830.33,54801.78,2026-01-01,2026-01-30,2026-01-21,2026-01-23,Delivered
+PO-26122,A2,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),924,171.29,158271.96,2026-06-18,2026-08-27,2026-08-08,2026-08-12,Delivered
+PO-26123,A3,S06,Process Piping,Process Piping,PVDF pipe (ft),2783,48.15,134001.45,2026-01-21,2026-03-19,2026-03-13,2026-03-13,Delivered
+PO-26124,A3,S01,Civil/Structural,Structural Steel,Wide-flange steel beams,25,7705.26,192631.5,2025-10-19,2026-01-04,2025-12-11,2025-12-13,Delivered
+PO-26125,A1,S01,Civil/Structural,Structural Steel,Embed plates,447,153.86,68775.42,2026-07-09,2026-09-12,2026-08-22,2026-08-23,Delivered
+PO-26126,A1,S06,Process Piping,Process Piping,Stainless pipe (ft),4524,58.15,263070.6,2026-04-15,2026-06-17,2026-05-27,2026-05-27,Delivered
+PO-26127,A2,S05,Mechanical,Mechanical,Exhaust fan,16,9549.52,152792.32,2026-07-23,2026-10-01,2026-09-27,,In Transit
+PO-26128,A5,S05,Mechanical,Mechanical,Cooling tower cell,2,240222.14,480444.28,2025-11-18,2026-04-06,2026-03-30,2026-03-30,Delivered
+PO-26129,A1,S07,Process Piping,Process Piping,PVDF pipe (ft),3342,53.11,177493.62,2026-03-14,2026-06-07,2026-05-08,2026-05-11,Delivered
+PO-26130,A2,S09,Electrical,General,Safety supplies kit,52,844.18,43897.36,2026-02-08,2026-03-16,2026-03-05,2026-03-04,Delivered
+PO-26131,A1,S03,Electrical,Electrical,Dry-type transformer,2,41259.42,82518.84,2026-06-06,2026-07-29,2026-07-23,2026-07-25,Delivered
+PO-26132,A4,S03,Electrical,Electrical,Dry-type transformer,8,40646.38,325171.04,2025-11-26,2026-02-13,2026-02-22,2026-02-25,Delivered
+PO-26133,A2,S08,Mechanical,Mechanical,Pump skid,4,59621.97,238487.88,2026-06-03,2026-07-16,2026-07-02,2026-07-06,Delivered
+PO-26134,A2,S10,Mechanical,Mechanical,Exhaust fan,17,9427.5,160267.5,2026-05-31,2026-07-20,2026-07-10,2026-07-14,Delivered
+PO-26135,A5,S08,Mechanical,Mechanical,Cooling tower cell,2,212191.04,424382.08,2025-11-05,2026-03-18,2026-03-11,2026-03-12,Delivered
+PO-26136,A4,S03,Electrical,Electrical,Feeder cable (ft),4590,15.4,70686.0,2026-02-28,2026-04-02,2026-04-21,2026-04-21,Delivered
+PO-26137,A1,S02,Civil/Structural,Concrete,Rebar (tons),60,1067.12,64027.2,2026-08-01,2026-10-05,2026-09-05,2026-09-05,Delivered
+PO-26138,A3,S08,Mechanical,Mechanical,Air handling unit,5,145464.61,727323.05,2025-10-13,2026-01-26,2026-01-13,2026-01-15,Delivered
+PO-26139,A1,S10,Mechanical,Mechanical,Pump skid,5,59962.45,299812.25,2025-11-04,2025-12-03,2026-01-15,2026-01-17,Delivered
+PO-26140,A2,S02,Civil/Structural,Concrete,Rebar (tons),100,993.98,99398.0,2026-01-04,2026-03-13,2026-03-04,2026-03-06,Delivered
+PO-26141,A2,S10,Mechanical,Mechanical,Exhaust fan,11,10260.67,112867.37,2026-03-06,2026-04-14,2026-05-18,2026-05-20,Delivered
+PO-26142,A2,S07,Process Piping,Process Piping,Pipe supports,203,206.87,41994.61,2025-09-11,2025-11-16,2025-11-06,2025-11-09,Delivered
+PO-26143,A1,S02,Civil/Structural,Concrete,Precast wall panels,38,6325.5,240369.0,2026-06-09,2026-08-08,2026-07-14,2026-07-17,Delivered
+PO-26144,A2,S03,Electrical,Electrical,Dry-type transformer,2,40688.95,81377.9,2026-01-31,2026-03-04,2026-02-26,2026-02-26,Delivered
+PO-26145,A1,S09,Mechanical,General,Temporary power equipment,4,22428.27,89713.08,2026-01-27,2026-04-02,2026-04-19,2026-04-19,Delivered
+PO-26146,A5,S06,Process Piping,Process Piping,Pipe supports,660,223.34,147404.4,2026-03-19,2026-05-03,2026-04-23,2026-04-23,Delivered
+PO-26147,A1,S09,Mechanical,General,Temporary power equipment,4,23319.07,93276.28,2026-06-09,2026-07-26,2026-07-11,2026-07-14,Delivered
+PO-26148,A2,S08,Mechanical,Mechanical,Pump skid,7,52453.06,367171.42,2026-04-19,2026-06-02,2026-05-05,2026-05-07,Delivered
+PO-26149,A2,S05,Mechanical,Mechanical,Centrifugal chiller,1,634554.18,634554.18,2026-08-16,2026-12-09,2027-02-24,,Open
+PO-26150,A2,S01,Civil/Structural,Structural Steel,Steel columns,10,10177.1,101771.0,2026-03-18,2026-05-13,2026-05-07,2026-05-07,Delivered
+PO-26151,A1,S02,Civil/Structural,Concrete,Precast wall panels,16,6374.74,101995.84,2026-01-23,2026-03-01,2026-03-09,2026-03-10,Delivered
+PO-26152,A2,S09,Electrical,General,Safety supplies kit,32,813.67,26037.44,2026-08-24,2026-10-19,2026-10-08,,Open
+PO-26153,A5,S08,Mechanical,Mechanical,Centrifugal chiller,2,678846.72,1357693.44,2026-08-10,2027-01-18,2027-03-06,,Open
+PO-26154,A1,S03,Electrical,Electrical,Dry-type transformer,8,38453.2,307625.6,2025-12-14,2026-01-17,2026-01-05,2026-01-05,Delivered
+PO-26155,A3,S06,Process Piping,Process Piping,Pipe supports,613,214.49,131482.37,2025-10-17,2025-11-18,2025-11-04,2025-11-06,Delivered
+PO-26156,A3,S07,Process Piping,Process Piping,Isolation valve,43,2116.45,91007.35,2026-04-21,2026-06-29,2026-06-03,2026-06-07,Delivered
+PO-26157,A2,S10,Mechanical,Mechanical,Air handling unit,5,134616.15,673080.75,2025-10-01,2026-04-23,2026-05-28,2026-05-27,Delivered
+PO-26158,A1,S04,Electrical,Electrical,Cable tray (ft),3458,28.4,98207.2,2025-10-13,2025-11-23,2025-12-22,2025-12-22,Delivered
+PO-26159,A1,S05,Mechanical,Mechanical,Pump skid,6,56591.7,339550.2,2026-06-27,2026-07-30,2026-07-20,2026-07-24,Delivered
+PO-26160,A4,S01,Civil/Structural,Structural Steel,Wide-flange steel beams,14,8869.44,124172.16,2026-01-16,2026-03-23,2026-03-12,2026-03-14,Delivered
+PO-26161,A2,S08,Mechanical,Mechanical,Pump skid,4,62185.93,248743.72,2026-08-19,2026-10-11,2026-09-27,,In Transit
+PO-26162,A1,S08,Mechanical,Mechanical,Exhaust fan,11,10127.96,111407.56,2026-02-13,2026-04-30,2026-04-14,2026-04-18,Delivered
+PO-26163,A1,S09,Mechanical,General,Safety supplies kit,35,852.23,29828.05,2025-11-14,2025-12-10,2025-12-04,2025-12-08,Delivered
+PO-26164,A4,S04,Electrical,Electrical,Dry-type transformer,8,42006.16,336049.28,2025-12-09,2026-01-22,2026-01-02,2026-01-03,Delivered
+PO-26165,A2,S08,Mechanical,Mechanical,Centrifugal chiller,1,601773.1,601773.1,2026-01-04,2026-05-24,2026-05-01,2026-05-01,Delivered
+PO-26166,A2,S08,Mechanical,Mechanical,Cooling tower cell,2,249866.92,499733.84,2026-01-16,2026-08-03,2026-07-18,2026-07-16,Delivered
+PO-26167,A1,S10,Mechanical,Mechanical,Pump skid,3,57215.71,171647.13,2026-05-19,2026-07-29,2026-08-26,2026-08-28,Delivered
+PO-26168,A4,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),942,162.8,153357.6,2026-02-23,2026-04-29,2026-04-13,2026-04-15,Delivered
+PO-26169,A1,S09,Process Piping,General,Safety supplies kit,20,790.63,15812.6,2026-05-26,2026-07-17,2026-07-08,2026-07-08,Delivered
+PO-26170,A5,S06,Process Piping,Process Piping,PVDF pipe (ft),2614,49.71,129941.94,2026-07-03,2026-08-28,2026-08-07,2026-08-10,Delivered
+PO-26171,A5,S08,Mechanical,Mechanical,Centrifugal chiller,1,639424.82,639424.82,2026-06-28,2026-12-04,2026-11-04,,Open
+PO-26172,A2,S10,Mechanical,Mechanical,Pump skid,4,51032.7,204130.8,2026-05-29,2026-08-19,2026-09-18,2026-09-19,Delivered
+PO-26173,A1,S04,Electrical,Electrical,Medium-voltage switchgear lineup,2,442728.13,885456.26,2026-04-16,2026-09-11,2026-11-25,,Open
+PO-26174,A1,S10,Mechanical,Mechanical,Exhaust fan,26,10406.47,270568.22,2025-11-12,2026-01-09,2026-02-14,2026-02-15,Delivered
+PO-26175,A2,S06,Process Piping,Process Piping,PVDF pipe (ft),2854,48.83,139360.82,2026-08-15,2026-11-09,2026-10-14,,Open
+PO-26176,A5,S04,Electrical,Electrical,Cable tray (ft),2406,26.59,63975.54,2026-02-02,2026-04-02,2026-04-25,2026-04-26,Delivered
+PO-26177,A1,S06,Process Piping,Process Piping,Isolation valve,136,2042.48,277777.28,2025-11-04,2026-01-19,2025-12-24,2025-12-28,Delivered
+PO-26178,A1,S03,Electrical,Electrical,Cable tray (ft),1013,31.08,31484.04,2026-04-17,2026-06-24,2026-06-11,2026-06-10,Delivered
+PO-26179,A3,S05,Mechanical,Mechanical,Pump skid,7,52091.2,364638.4,2026-06-30,2026-08-10,2026-09-05,2026-09-04,Delivered
+PO-26180,A1,S01,Civil/Structural,Structural Steel,Wide-flange steel beams,26,8462.55,220026.3,2025-11-12,2025-12-18,2025-11-26,2025-11-27,Delivered
+PO-26181,A1,S08,Mechanical,Mechanical,Exhaust fan,21,10449.74,219444.54,2026-01-27,2026-03-29,2026-03-23,2026-03-26,Delivered
+PO-26182,A5,S09,Mechanical,General,Scaffolding rental,9,15484.94,139364.46,2026-04-04,2026-05-05,2026-04-29,2026-05-03,Delivered
+PO-26183,A1,S05,Mechanical,Mechanical,Centrifugal chiller,1,625220.48,625220.48,2026-02-21,2026-07-16,2026-06-27,2026-06-26,Delivered
+PO-26184,A1,S08,Mechanical,Mechanical,Cooling tower cell,1,212699.93,212699.93,2026-04-25,2026-10-27,2026-10-14,,Open
+PO-26185,A3,S05,Mechanical,Mechanical,Pump skid,7,52779.75,369458.25,2026-07-27,2026-09-22,2026-09-04,2026-09-05,Delivered
+PO-26186,A1,S03,Electrical,Electrical,Dry-type transformer,5,42023.5,210117.5,2026-03-18,2026-05-05,2026-04-16,2026-04-16,Delivered
+PO-26187,A1,S10,Mechanical,Mechanical,Centrifugal chiller,1,597251.89,597251.89,2026-08-10,2026-12-12,2027-01-18,,Open
+PO-26188,A2,S05,Mechanical,Mechanical,Centrifugal chiller,1,675233.3,675233.3,2025-12-25,2026-05-01,2026-04-22,2026-04-25,Delivered
+PO-26189,A4,S06,Process Piping,Process Piping,Pipe supports,559,231.17,129224.03,2026-08-09,2026-10-04,2026-09-05,2026-09-07,Delivered
+PO-26190,A5,S06,Process Piping,Process Piping,Stainless pipe (ft),6753,57.33,387149.49,2026-05-19,2026-07-07,2026-06-14,2026-06-14,Delivered
+PO-26191,A2,S08,Mechanical,Mechanical,Centrifugal chiller,1,645210.39,645210.39,2026-05-22,2026-11-15,2026-11-06,,Open
+PO-26192,A1,S10,Mechanical,Mechanical,Centrifugal chiller,1,639285.43,639285.43,2025-09-14,2026-02-14,2026-02-01,2026-02-03,Delivered
+PO-26193,A1,S07,Process Piping,Process Piping,Control valve,37,7541.01,279017.37,2025-10-08,2025-11-27,2025-11-21,2025-11-25,Delivered
+PO-26194,A5,S07,Process Piping,Process Piping,Control valve,47,7282.68,342285.96,2026-03-15,2026-04-29,2026-04-22,2026-04-25,Delivered
+PO-26195,A1,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),954,162.77,155282.58,2025-12-26,2026-02-07,2026-02-02,2026-02-03,Delivered
+PO-26196,A1,S09,Electrical,General,Temporary power equipment,3,23785.06,71355.18,2025-11-21,2026-01-02,2025-12-22,2025-12-20,Delivered
+PO-26197,A1,S07,Process Piping,Process Piping,Isolation valve,118,2079.41,245370.38,2025-12-17,2026-01-12,2026-01-04,2026-01-06,Delivered
+PO-26198,A1,S01,Civil/Structural,Structural Steel,Steel columns,28,9390.73,262940.44,2025-12-23,2026-01-18,2026-01-09,2026-01-08,Delivered
+PO-26199,A4,S10,Mechanical,Mechanical,Cooling tower cell,2,246090.43,492180.86,2026-01-02,2026-05-19,2026-05-10,2026-05-11,Delivered
+PO-26200,A2,S01,Civil/Structural,Structural Steel,Steel columns,25,9442.85,236071.25,2026-02-26,2026-05-18,2026-04-22,2026-04-25,Delivered
+PO-26201,A2,S03,Electrical,Electrical,Cable tray (ft),1916,29.85,57192.6,2025-12-27,2026-02-25,2026-03-04,2026-03-02,Delivered
+PO-26202,A1,S07,Process Piping,Process Piping,Isolation valve,93,1872.36,174129.48,2026-02-19,2026-04-22,2026-04-15,2026-04-13,Delivered
+PO-26203,A3,S04,Electrical,Electrical,Medium-voltage switchgear lineup,1,440247.29,440247.29,2025-10-10,2026-03-03,2026-02-01,2026-02-02,Delivered
+PO-26204,A5,S06,Process Piping,Process Piping,Control valve,46,6684.96,307508.16,2025-11-02,2025-12-28,2025-12-16,2025-12-17,Delivered
+PO-26205,A2,S09,Electrical,General,Temporary power equipment,3,21642.4,64927.2,2026-02-07,2026-03-25,2026-03-09,2026-03-10,Delivered
+PO-26206,A2,S08,Mechanical,Mechanical,Cooling tower cell,3,225757.67,677273.01,2026-06-18,2027-01-16,2027-01-04,,Open
+PO-26207,A1,S10,Mechanical,Mechanical,Pump skid,7,54036.77,378257.39,2025-12-29,2026-02-28,2026-02-05,2026-02-07,Delivered
+PO-26208,A4,S06,Process Piping,Process Piping,Control valve,39,7455.48,290763.72,2026-05-12,2026-07-04,2026-06-24,2026-06-23,Delivered
+PO-26209,A5,S09,Civil/Structural,General,Temporary power equipment,1,24104.52,24104.52,2026-05-29,2026-06-21,2026-06-14,,Cancelled
+PO-26210,A1,S03,Electrical,Electrical,Dry-type transformer,2,35462.61,70925.22,2026-04-24,2026-06-06,2026-05-31,2026-06-03,Delivered
+PO-26211,A1,S01,Civil/Structural,Structural Steel,Embed plates,124,152.47,18906.28,2026-01-27,2026-03-04,2026-02-11,2026-02-15,Delivered
+PO-26212,A1,S03,Electrical,Electrical,Medium-voltage switchgear lineup,3,426453.21,1279359.63,2026-07-17,2027-01-03,2026-12-21,,Open
+PO-26213,A3,S06,Process Piping,Process Piping,Pipe supports,427,200.24,85502.48,2026-02-03,2026-04-08,2026-04-01,2026-03-30,Delivered
+PO-26214,A3,S07,Process Piping,Process Piping,Isolation valve,87,1976.16,171925.92,2025-10-15,2025-12-17,2025-11-29,2025-12-01,Delivered
+PO-26215,A5,S02,Civil/Structural,Concrete,Precast wall panels,45,6178.57,278035.65,2026-08-23,2026-11-01,2026-10-12,,Open
+PO-26216,A5,S09,Civil/Structural,General,Scaffolding rental,8,13152.41,105219.28,2025-12-18,2026-02-16,2026-02-07,2026-02-05,Delivered
+PO-26217,A3,S10,Mechanical,Mechanical,Air handling unit,4,157597.21,630388.84,2026-06-06,2026-11-02,2026-10-16,,Open
+PO-26218,A1,S02,Civil/Structural,Concrete,Precast wall panels,38,6344.58,241094.04,2025-12-30,2026-02-01,2026-01-17,2026-01-21,Delivered
+PO-26219,A5,S05,Mechanical,Mechanical,Exhaust fan,17,9587.13,162981.21,2026-04-12,2026-06-02,2026-05-07,2026-05-05,Delivered
+PO-26220,A1,S05,Mechanical,Mechanical,Air handling unit,5,133117.01,665585.05,2026-07-24,2026-12-08,2026-11-10,,Open
+PO-26221,A1,S05,Mechanical,Mechanical,Exhaust fan,14,9401.62,131622.68,2025-12-07,2026-02-05,2026-01-17,2026-01-15,Delivered
+PO-26222,A1,S06,Process Piping,Process Piping,Isolation valve,46,1959.98,90159.08,2026-03-19,2026-04-16,2026-04-02,2026-04-05,Delivered
+PO-26223,A1,S04,Electrical,Electrical,Lighting panelboard,15,6514.77,97721.55,2026-01-18,2026-03-05,2026-03-01,2026-02-28,Delivered
+PO-26224,A1,S07,Process Piping,Process Piping,Control valve,29,6785.23,196771.67,2026-01-07,2026-04-02,2026-03-08,2026-03-09,Delivered
+PO-26225,A3,S05,Mechanical,Mechanical,Centrifugal chiller,2,593583.55,1187167.1,2026-02-18,2026-07-29,2026-07-14,2026-07-14,Delivered
+PO-26226,A5,S04,Electrical,Electrical,Feeder cable (ft),6993,15.57,108881.01,2026-01-30,2026-04-23,2026-05-09,2026-05-13,Delivered
+PO-26227,A1,S07,Process Piping,Process Piping,Control valve,41,7299.7,299287.7,2026-06-18,2026-08-06,2026-07-14,2026-07-17,Delivered
+PO-26228,A4,S01,Civil/Structural,Structural Steel,Embed plates,459,141.92,65141.28,2026-08-23,2026-10-10,2026-09-10,2026-09-09,Delivered
+PO-26229,A4,S04,Electrical,Electrical,Cable tray (ft),2678,29.61,79295.58,2025-10-10,2025-12-15,2025-12-21,2025-12-23,Delivered
+PO-26230,A3,S07,Process Piping,Process Piping,Isolation valve,39,2114.8,82477.2,2026-06-04,2026-08-20,2026-07-26,2026-07-30,Delivered
+PO-26231,A5,S06,Process Piping,Process Piping,PVDF pipe (ft),3529,43.67,154111.43,2026-08-15,2026-10-26,2026-10-09,,Open
+PO-26232,A2,S01,Civil/Structural,Structural Steel,Wide-flange steel beams,21,8098.79,170074.59,2026-06-27,2026-09-16,2026-08-24,2026-08-25,Delivered
+PO-26233,A2,S10,Mechanical,Mechanical,Pump skid,3,62691.7,188075.1,2026-02-01,2026-03-20,2026-05-03,2026-05-02,Delivered
+PO-26234,A1,S06,Process Piping,Process Piping,Pipe supports,603,213.08,128487.24,2025-10-22,2025-12-31,2025-12-03,2025-12-01,Delivered
+PO-26235,A3,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),851,172.02,146389.02,2025-11-26,2026-01-15,2025-12-25,2025-12-25,Delivered
+PO-26236,A1,S08,Mechanical,Mechanical,Air handling unit,6,150589.35,903536.1,2026-08-05,2027-01-14,2027-03-21,,Open
+PO-26237,A1,S07,Process Piping,Process Piping,Pipe supports,182,198.92,36203.44,2026-08-29,2026-10-09,2026-11-15,,Open
+PO-26238,A5,S06,Process Piping,Process Piping,PVDF pipe (ft),2847,45.97,130876.59,2026-05-31,2026-08-08,2026-07-24,2026-07-26,Delivered
+PO-26239,A3,S06,Process Piping,Process Piping,Pipe supports,513,226.59,116240.67,2026-02-02,2026-04-19,2026-03-27,2026-03-27,Delivered
+PO-26240,A2,S05,Mechanical,Mechanical,Centrifugal chiller,1,642059.18,642059.18,2026-04-05,2026-09-27,2026-09-18,2026-09-17,Delivered
+PO-26241,A1,S09,Mechanical,General,Scaffolding rental,11,15466.54,170131.94,2026-05-11,2026-06-21,2026-06-12,2026-06-14,Delivered
+PO-26242,A2,S06,Process Piping,Process Piping,Stainless pipe (ft),4416,58.46,258159.36,2026-06-17,2026-08-27,2026-08-02,2026-08-03,Delivered
+PO-26243,A4,S08,Mechanical,Mechanical,Exhaust fan,10,10039.0,100390.0,2025-12-24,2026-01-31,2026-01-25,2026-01-24,Delivered
+PO-26244,A1,S10,Mechanical,Mechanical,Exhaust fan,19,9064.08,172217.52,2026-06-08,2026-08-06,2026-07-15,2026-07-19,Delivered
+PO-26245,A5,S09,Mechanical,General,Safety supplies kit,71,784.15,55674.65,2026-02-02,2026-03-09,2026-02-18,2026-02-19,Delivered
+PO-26246,A3,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),391,175.28,68534.48,2026-07-12,2026-09-22,2026-09-04,2026-09-08,Delivered
+PO-26247,A2,S04,Electrical,Electrical,Medium-voltage switchgear lineup,2,427182.75,854365.5,2025-11-28,2026-05-05,2026-06-25,2026-06-25,Delivered
+PO-26248,A4,S09,Process Piping,General,Scaffolding rental,10,13017.61,130176.1,2025-10-03,2025-11-28,2025-11-03,2025-11-02,Delivered
+PO-26249,A2,S06,Process Piping,Process Piping,PVDF pipe (ft),3941,50.34,198389.94,2026-06-25,2026-08-31,2026-08-18,2026-08-19,Delivered
+PO-26250,A5,S02,Civil/Structural,Concrete,Rebar (tons),91,1057.33,96217.03,2026-03-10,2026-05-12,2026-04-22,2026-04-26,Delivered
+PO-26251,A3,S02,Civil/Structural,Concrete,Precast wall panels,46,6757.82,310859.72,2025-10-05,2025-12-09,2025-11-22,2025-11-26,Delivered
+PO-26252,A2,S05,Mechanical,Mechanical,Cooling tower cell,3,224090.41,672271.23,2026-06-19,2027-01-24,2027-01-04,,Open
+PO-26253,A2,S08,Mechanical,Mechanical,Centrifugal chiller,1,664096.84,664096.84,2025-09-03,2026-02-05,2026-01-25,2026-01-28,Delivered
+PO-26254,A2,S05,Mechanical,Mechanical,Centrifugal chiller,1,582602.24,582602.24,2026-08-01,2026-11-26,2026-11-20,,Open
+PO-26255,A1,S04,Electrical,Electrical,Feeder cable (ft),10679,14.77,157728.83,2026-05-05,2026-06-01,2026-06-30,2026-07-03,Delivered
+PO-26256,A2,S01,Civil/Structural,Structural Steel,Roof deck panels,207,1340.87,277560.09,2025-11-09,2025-12-30,2025-12-23,2025-12-26,Delivered
+PO-26257,A2,S02,Civil/Structural,Concrete,Rebar (tons),75,1062.42,79681.5,2025-11-10,2026-01-30,2026-01-04,2026-01-06,Delivered
+PO-26258,A1,S08,Mechanical,Mechanical,Cooling tower cell,2,238780.85,477561.7,2026-04-01,2026-10-12,2026-09-16,2026-09-14,Delivered
+PO-26259,A5,S03,Electrical,Electrical,Medium-voltage switchgear lineup,2,413484.55,826969.1,2026-02-11,2026-08-30,2026-08-21,2026-08-20,Delivered
+PO-26260,A1,S10,Mechanical,Mechanical,Pump skid,4,61996.56,247986.24,2026-08-06,2026-09-19,2026-10-15,,Open
+PO-26261,A1,S05,Mechanical,Mechanical,Centrifugal chiller,2,655525.01,1311050.02,2026-03-19,2026-07-13,2026-07-01,2026-07-03,Delivered
+PO-26262,A5,S01,Civil/Structural,Structural Steel,Roof deck panels,228,1114.84,254183.52,2026-06-21,2026-08-16,2026-07-31,2026-08-04,Delivered
+PO-26263,A1,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),662,149.0,98638.0,2025-10-03,2025-12-02,2025-11-11,2025-11-12,Delivered
+PO-26264,A1,S02,Civil/Structural,Concrete,Precast wall panels,31,6730.95,208659.45,2026-02-08,2026-03-20,2026-02-27,2026-03-01,Delivered
+PO-26265,A5,S10,Mechanical,Mechanical,Centrifugal chiller,1,607710.63,607710.63,2026-01-03,2026-04-22,2026-06-09,2026-06-07,Delivered
+PO-26266,A4,S10,Mechanical,Mechanical,Centrifugal chiller,1,648535.27,648535.27,2025-11-03,2026-03-01,2026-02-08,2026-02-07,Delivered
+PO-26267,A1,S06,Process Piping,Process Piping,Isolation valve,91,2053.81,186896.71,2026-03-12,2026-05-01,2026-04-03,2026-04-06,Delivered
+PO-26268,A1,S01,Civil/Structural,Structural Steel,Roof deck panels,205,1151.8,236119.0,2026-06-25,2026-08-25,2026-08-18,2026-08-16,Delivered
+PO-26269,A1,S10,Mechanical,Mechanical,Air handling unit,3,138638.2,415914.6,2026-06-23,2027-01-13,2027-03-25,,Cancelled
+PO-26270,A5,S01,Civil/Structural,Structural Steel,Steel columns,10,9310.71,93107.1,2025-12-03,2026-01-10,2025-12-19,2025-12-18,Delivered
+PO-26271,A2,S07,Process Piping,Process Piping,Control valve,21,6786.8,142522.8,2026-05-18,2026-07-20,2026-09-08,2026-09-10,Delivered
+PO-26272,A4,S07,Process Piping,Process Piping,Stainless pipe (ft),6535,67.61,441831.35,2026-02-09,2026-03-22,2026-03-15,2026-03-15,Delivered
+PO-26273,A2,S10,Mechanical,Mechanical,Cooling tower cell,2,219274.75,438549.5,2026-05-13,2026-12-16,2027-03-17,,Open
+PO-26274,A1,S04,Electrical,Electrical,Dry-type transformer,2,37627.9,75255.8,2026-02-27,2026-05-19,2026-04-22,2026-04-20,Delivered
+PO-26275,A1,S07,Process Piping,Process Piping,Control valve,15,7522.54,112838.1,2026-05-12,2026-06-07,2026-05-29,2026-05-27,Delivered
+PO-26276,A5,S09,Civil/Structural,General,Temporary power equipment,3,21602.86,64808.58,2026-06-27,2026-08-07,2026-09-12,2026-09-13,Delivered
+PO-26277,A1,S10,Mechanical,Mechanical,Centrifugal chiller,1,678398.09,678398.09,2026-01-14,2026-08-15,2026-07-31,2026-08-03,Delivered
+PO-26278,A5,S06,Process Piping,Process Piping,Control valve,28,7040.32,197128.96,2025-11-11,2026-01-09,2026-01-16,2026-01-17,Delivered
+PO-26279,A1,S07,Process Piping,Process Piping,Stainless pipe (ft),4693,68.96,323629.28,2026-02-07,2026-04-04,2026-03-22,2026-03-21,Delivered
+PO-26280,A1,S05,Mechanical,Mechanical,Pump skid,2,60698.59,121397.18,2025-10-19,2025-12-29,2025-12-17,2025-12-19,Delivered
+PO-26281,A5,S05,Mechanical,Mechanical,Cooling tower cell,3,215797.71,647393.13,2026-04-22,2026-10-28,2026-09-30,,In Transit
+PO-26282,A5,S03,Electrical,Electrical,Medium-voltage switchgear lineup,1,454726.4,454726.4,2025-11-08,2026-03-20,2026-03-03,2026-03-05,Delivered
+PO-26283,A3,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),957,155.68,148985.76,2025-11-07,2025-12-26,2025-11-26,2025-11-27,Delivered
+PO-26284,A1,S10,Mechanical,Mechanical,Exhaust fan,24,9671.62,232118.88,2026-08-18,2026-10-08,2026-10-14,,Open
+PO-26285,A3,S03,Electrical,Electrical,Medium-voltage switchgear lineup,2,435008.69,870017.38,2026-05-16,2026-10-27,2026-10-05,,Open
+PO-26286,A1,S07,Process Piping,Process Piping,PVDF pipe (ft),3513,51.62,181341.06,2026-06-08,2026-07-10,2026-06-23,2026-06-24,Delivered
+PO-26287,A2,S08,Mechanical,Mechanical,Cooling tower cell,3,232421.1,697263.3,2025-12-04,2026-03-22,2026-03-07,2026-03-11,Delivered
+PO-26288,A5,S01,Civil/Structural,Structural Steel,Embed plates,310,160.31,49696.1,2025-11-23,2025-12-25,2025-12-13,2025-12-15,Delivered
+PO-26289,A2,S01,Civil/Structural,Structural Steel,Steel columns,24,10603.77,254490.48,2025-11-30,2026-01-06,2025-12-25,2025-12-27,Delivered
+PO-26290,A1,S06,Process Piping,Process Piping,Isolation valve,96,1945.38,186756.48,2026-05-13,2026-07-14,2026-06-30,2026-06-28,Delivered
+PO-26291,A1,S10,Mechanical,Mechanical,Air handling unit,1,145747.85,145747.85,2026-07-14,2026-12-06,2027-02-10,,Open
+PO-26292,A5,S06,Process Piping,Process Piping,Stainless pipe (ft),1918,63.8,122368.4,2025-10-29,2025-12-31,2025-12-15,2025-12-18,Delivered
+PO-26293,A1,S07,Process Piping,Process Piping,Isolation valve,46,1836.14,84462.44,2025-11-22,2026-02-08,2026-01-21,2026-01-24,Delivered
+PO-26294,A2,S09,Mechanical,General,Scaffolding rental,11,14490.22,159392.42,2026-03-15,2026-05-15,2026-04-17,2026-04-16,Delivered
+PO-26295,A2,S10,Mechanical,Mechanical,Exhaust fan,25,10481.91,262047.75,2025-12-05,2026-02-10,2026-01-26,2026-01-29,Delivered
+PO-26296,A1,S08,Mechanical,Mechanical,Air handling unit,3,132982.03,398946.09,2026-02-13,2026-06-29,2026-06-04,2026-06-08,Delivered
+PO-26297,A3,S06,Process Piping,Process Piping,Pipe supports,186,198.69,36956.34,2026-03-01,2026-04-30,2026-03-31,2026-03-29,Delivered
+PO-26298,A2,S07,Process Piping,Process Piping,PVDF pipe (ft),4384,48.41,212229.44,2026-06-09,2026-07-25,2026-07-17,2026-07-16,Delivered
+PO-26299,A1,S01,Civil/Structural,Structural Steel,Roof deck panels,63,1148.94,72383.22,2026-02-25,2026-04-07,2026-03-21,2026-03-23,Delivered
+PO-26300,A2,S02,Civil/Structural,Concrete,Rebar (tons),100,1138.5,113850.0,2025-09-18,2025-11-23,2025-10-29,2025-10-28,Delivered
+PO-26301,A2,S06,Process Piping,Process Piping,PVDF pipe (ft),4707,47.52,223676.64,2026-06-06,2026-08-01,2026-07-06,2026-07-04,Delivered
+PO-26302,A2,S10,Mechanical,Mechanical,Pump skid,8,52292.23,418337.84,2026-04-09,2026-05-12,2026-04-28,2026-04-27,Delivered
+PO-26303,A2,S04,Electrical,Electrical,Dry-type transformer,6,42368.2,254209.2,2025-11-01,2026-01-03,2026-01-09,2026-01-12,Delivered
+PO-26304,A2,S09,Process Piping,General,Temporary power equipment,1,24085.78,24085.78,2025-09-25,2025-11-13,2025-10-25,2025-10-29,Delivered
+PO-26305,A1,S01,Civil/Structural,Structural Steel,Steel columns,29,9945.01,288405.29,2026-02-26,2026-05-03,2026-04-15,2026-04-17,Delivered
+PO-26306,A5,S07,Process Piping,Process Piping,Isolation valve,81,1933.85,156641.85,2026-05-04,2026-07-05,2026-06-23,2026-06-24,Delivered
+PO-26307,A1,S01,Civil/Structural,Structural Steel,Steel columns,12,10132.52,121590.24,2025-11-27,2026-01-23,2025-12-24,2025-12-25,Delivered
+PO-26308,A5,S07,Process Piping,Process Piping,PVDF pipe (ft),4790,49.82,238637.8,2026-01-13,2026-03-16,2026-02-16,2026-02-14,Delivered
+PO-26309,A2,S07,Process Piping,Process Piping,Isolation valve,71,1825.45,129606.95,2025-09-09,2025-11-30,2025-11-06,2025-11-04,Delivered
+PO-26310,A5,S03,Electrical,Electrical,Lighting panelboard,16,6614.43,105830.88,2025-10-27,2026-01-14,2026-01-08,2026-01-12,Delivered
+PO-26311,A2,S06,Process Piping,Process Piping,Pipe supports,322,219.25,70598.5,2026-05-03,2026-05-29,2026-05-19,2026-05-21,Delivered
+PO-26312,A3,S07,Process Piping,Process Piping,Stainless pipe (ft),3937,67.79,266889.23,2025-09-28,2025-11-24,2025-11-11,2025-11-11,Delivered
+PO-26313,A3,S05,Mechanical,Mechanical,Cooling tower cell,1,231875.93,231875.93,2025-10-23,2026-02-28,2026-02-19,2026-02-23,Delivered
+PO-26314,A2,S05,Mechanical,Mechanical,Exhaust fan,20,9012.5,180250.0,2026-03-30,2026-06-12,2026-05-14,2026-05-18,Delivered
+PO-26315,A1,S03,Electrical,Electrical,Medium-voltage switchgear lineup,1,424827.88,424827.88,2026-05-29,2026-11-12,2026-11-07,,Open
+PO-26316,A1,S01,Civil/Structural,Structural Steel,Embed plates,138,146.89,20270.82,2026-03-10,2026-05-13,2026-04-22,2026-04-25,Delivered
+PO-26317,A5,S06,Process Piping,Process Piping,Pipe supports,500,197.2,98600.0,2026-06-30,2026-09-03,2026-08-18,2026-08-21,Delivered
+PO-26318,A5,S02,Civil/Structural,Concrete,Rebar (tons),38,1002.02,38076.76,2025-12-21,2026-02-12,2026-01-18,2026-01-18,Delivered
+PO-26319,A3,S09,Process Piping,General,Safety supplies kit,64,945.85,60534.4,2025-11-09,2026-01-13,2026-01-03,2026-01-02,Delivered
+PO-26320,A1,S05,Mechanical,Mechanical,Cooling tower cell,2,226049.66,452099.32,2026-01-10,2026-05-26,2026-05-07,2026-05-09,Delivered
+PO-26321,A2,S09,Electrical,General,Scaffolding rental,11,15185.29,167038.19,2026-02-02,2026-04-08,2026-03-31,2026-03-31,Delivered
+PO-26322,A3,S05,Mechanical,Mechanical,Cooling tower cell,2,255180.7,510361.4,2025-12-08,2026-04-17,2026-03-27,2026-03-31,Delivered
+PO-26323,A4,S10,Mechanical,Mechanical,Exhaust fan,21,10287.71,216041.91,2026-08-04,2026-10-02,2026-10-19,,Open
+PO-26324,A3,S01,Civil/Structural,Structural Steel,Steel columns,18,10040.94,180736.92,2026-07-26,2026-10-04,2026-09-08,2026-09-12,Delivered
+PO-26325,A4,S09,Mechanical,General,Safety supplies kit,33,853.04,28150.32,2026-08-17,2026-10-16,2026-09-21,2026-09-20,Delivered
+PO-26326,A1,S05,Mechanical,Mechanical,Exhaust fan,24,9534.32,228823.68,2026-01-31,2026-03-23,2026-03-15,2026-03-16,Delivered
+PO-26327,A1,S09,Civil/Structural,General,Safety supplies kit,64,836.37,53527.68,2025-11-19,2025-12-22,2025-12-11,2025-12-10,Delivered
+PO-26328,A1,S03,Electrical,Electrical,Medium-voltage switchgear lineup,2,436307.43,872614.86,2026-07-24,2026-11-03,2026-10-29,,Open
+PO-26329,A1,S10,Mechanical,Mechanical,Air handling unit,4,154857.86,619431.44,2026-07-14,2026-12-31,2027-02-03,,Open
+PO-26330,A5,S01,Civil/Structural,Structural Steel,Steel columns,28,10535.64,294997.92,2026-06-01,2026-07-02,2026-06-27,2026-06-26,Delivered
+PO-26331,A2,S06,Process Piping,Process Piping,Control valve,16,7284.42,116550.72,2025-11-27,2025-12-21,2025-12-15,2025-12-16,Delivered
+PO-26332,A5,S10,Mechanical,Mechanical,Pump skid,4,61339.84,245359.36,2026-02-25,2026-04-27,2026-04-11,2026-04-15,Delivered
+PO-26333,A4,S04,Electrical,Electrical,Dry-type transformer,7,35296.88,247078.16,2026-07-01,2026-08-26,2026-10-05,,Open
+PO-26334,A2,S07,Process Piping,Process Piping,Control valve,39,7674.46,299303.94,2025-09-27,2025-11-30,2025-11-22,2025-11-20,Delivered
+PO-26335,A2,S07,Process Piping,Process Piping,Pipe supports,385,214.28,82497.8,2025-11-20,2026-01-13,2025-12-17,2025-12-17,Delivered
+PO-26336,A3,S02,Civil/Structural,Concrete,Precast wall panels,30,6740.6,202218.0,2026-04-05,2026-05-16,2026-04-25,2026-04-25,Delivered
+PO-26337,A1,S02,Civil/Structural,Concrete,Rebar (tons),57,1038.34,59185.38,2026-05-28,2026-07-09,2026-06-23,2026-06-22,Delivered
+PO-26338,A1,S08,Mechanical,Mechanical,Air handling unit,5,145833.18,729165.9,2025-09-09,2026-03-10,2026-03-03,2026-03-02,Delivered
+PO-26339,A1,S09,Mechanical,General,Safety supplies kit,57,783.94,44684.58,2026-04-24,2026-06-08,2026-05-26,2026-05-30,Delivered
+PO-26340,A2,S01,Civil/Structural,Structural Steel,Roof deck panels,124,1258.67,156075.08,2025-11-01,2025-12-20,2025-11-21,2025-11-25,Delivered
+PO-26341,A3,S03,Electrical,Electrical,Cable tray (ft),1865,27.9,52033.5,2025-10-20,2025-12-11,2025-11-26,2025-11-27,Delivered
+PO-26342,A2,S05,Mechanical,Mechanical,Exhaust fan,22,9851.1,216724.2,2025-11-27,2025-12-27,2025-12-18,2025-12-22,Delivered
+PO-26343,A2,S07,Process Piping,Process Piping,Isolation valve,88,1947.82,171408.16,2026-07-12,2026-09-17,2026-08-19,2026-08-23,Delivered
+PO-26344,A2,S03,Electrical,Electrical,Feeder cable (ft),13540,12.95,175343.0,2025-09-26,2025-10-27,2025-10-14,2025-10-17,Delivered
+PO-26345,A5,S09,Electrical,General,Scaffolding rental,8,14340.24,114721.92,2026-05-26,2026-08-08,2026-07-12,2026-07-13,Delivered
+PO-26346,A2,S04,Electrical,Electrical,Feeder cable (ft),7334,14.68,107663.12,2026-06-15,2026-08-13,2026-08-22,2026-08-24,Delivered
+PO-26347,A1,S08,Mechanical,Mechanical,Air handling unit,2,146183.57,292367.14,2026-01-23,2026-05-20,2026-04-29,2026-04-30,Delivered
+PO-26348,A1,S02,Civil/Structural,Concrete,Rebar (tons),83,1128.67,93679.61,2026-05-16,2026-07-12,2026-06-27,2026-06-30,Delivered
+PO-26349,A1,S02,Civil/Structural,Concrete,Rebar (tons),80,1124.83,89986.4,2025-10-19,2026-01-03,2025-12-10,2025-12-13,Delivered
+PO-26350,A5,S06,Process Piping,Process Piping,Control valve,41,7989.41,327565.81,2026-02-19,2026-05-08,2026-04-09,2026-04-12,Delivered
+PO-26351,A1,S08,Mechanical,Mechanical,Centrifugal chiller,1,637425.76,637425.76,2026-03-03,2026-10-10,2026-09-15,2026-09-17,Delivered
+PO-26352,A5,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),885,166.37,147237.45,2026-03-31,2026-05-03,2026-04-20,2026-04-18,Delivered
+PO-26353,A3,S07,Process Piping,Process Piping,PVDF pipe (ft),2845,51.45,146375.25,2025-10-28,2025-12-13,2025-12-07,2025-12-11,Delivered
+PO-26354,A2,S08,Mechanical,Mechanical,Pump skid,9,52058.72,468528.48,2026-06-01,2026-07-10,2026-06-18,2026-06-20,Delivered
+PO-26355,A1,S03,Electrical,Electrical,Lighting panelboard,9,6691.99,60227.91,2026-08-05,2026-10-20,2026-09-26,,In Transit
+PO-26356,A1,S04,Electrical,Electrical,Cable tray (ft),1974,27.31,53909.94,2025-11-10,2025-12-20,2026-01-23,2026-01-25,Delivered
+PO-26357,A3,S09,Mechanical,General,Temporary power equipment,3,24327.88,72983.64,2025-12-19,2026-03-09,2026-02-10,2026-02-13,Delivered
+PO-26358,A3,S03,Electrical,Electrical,Lighting panelboard,15,6448.7,96730.5,2026-03-02,2026-05-10,2026-04-20,2026-04-23,Delivered
+PO-26359,A1,S09,Civil/Structural,General,Temporary power equipment,4,21844.35,87377.4,2025-09-15,2025-11-01,2025-10-31,2025-10-30,Delivered
+PO-26360,A1,S03,Electrical,Electrical,Cable tray (ft),2745,26.1,71644.5,2026-02-01,2026-03-29,2026-02-28,2026-03-04,Delivered
+PO-26361,A2,S10,Mechanical,Mechanical,Pump skid,8,59546.52,476372.16,2026-01-02,2026-03-19,2026-02-17,2026-02-20,Delivered
+PO-26362,A3,S07,Process Piping,Process Piping,Pipe supports,404,225.41,91065.64,2026-06-12,2026-07-04,2026-06-29,2026-07-01,Delivered
+PO-26363,A3,S08,Mechanical,Mechanical,Air handling unit,6,152977.67,917866.02,2026-07-01,2027-01-04,2026-12-07,,Open
+PO-26364,A1,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),932,175.18,163267.76,2025-09-23,2025-11-16,2025-11-03,2025-11-02,Delivered
+PO-26365,A1,S05,Mechanical,Mechanical,Centrifugal chiller,1,644240.3,644240.3,2025-11-20,2026-04-24,2026-06-24,2026-06-26,Delivered
+PO-26366,A1,S05,Mechanical,Mechanical,Exhaust fan,24,10006.15,240147.6,2026-02-12,2026-04-12,2026-03-31,2026-04-04,Delivered
+PO-26367,A1,S07,Process Piping,Process Piping,Isolation valve,93,1748.43,162603.99,2025-12-21,2026-03-02,2026-02-15,2026-02-14,Delivered
+PO-26368,A4,S10,Mechanical,Mechanical,Pump skid,5,57315.64,286578.2,2026-08-01,2026-08-23,2026-08-15,2026-08-14,Delivered
+PO-26369,A5,S10,Mechanical,Mechanical,Pump skid,4,50891.29,203565.16,2026-03-17,2026-04-24,2026-05-28,2026-05-28,Delivered
+PO-26370,A2,S09,Electrical,General,Temporary power equipment,3,22262.28,66786.84,2026-08-02,2026-09-12,2026-08-28,2026-08-27,Delivered
+PO-26371,A3,S09,Mechanical,General,Scaffolding rental,3,12801.65,38404.95,2026-08-19,2026-10-07,2026-09-29,,In Transit
+PO-26372,A3,S02,Civil/Structural,Concrete,Precast wall panels,36,5883.97,211822.92,2025-09-22,2025-10-18,2025-10-11,2025-10-13,Delivered
+PO-26373,A2,S04,Electrical,Electrical,Cable tray (ft),2000,27.98,55960.0,2026-02-11,2026-03-15,2026-04-06,2026-04-04,Delivered
+PO-26374,A3,S10,Mechanical,Mechanical,Centrifugal chiller,1,627588.6,627588.6,2025-10-10,2026-03-15,2026-06-07,2026-06-10,Delivered
+PO-26375,A2,S02,Civil/Structural,Concrete,Rebar (tons),118,1095.92,129318.56,2026-08-07,2026-09-11,2026-08-22,2026-08-21,Delivered
+PO-26376,A3,S09,Electrical,General,Temporary power equipment,4,20497.33,81989.32,2025-09-08,2025-11-18,2025-10-27,2025-10-25,Delivered
+PO-26377,A1,S07,Process Piping,Process Piping,Isolation valve,95,1745.58,165830.1,2026-02-26,2026-04-12,2026-03-25,2026-03-24,Delivered
+PO-26378,A4,S10,Mechanical,Mechanical,Cooling tower cell,1,216176.71,216176.71,2025-09-30,2026-05-15,2026-04-16,2026-04-19,Delivered
+PO-26379,A2,S05,Mechanical,Mechanical,Centrifugal chiller,1,575493.44,575493.44,2026-02-19,2026-07-13,2026-07-04,2026-07-02,Delivered
+PO-26380,A3,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),468,164.86,77154.48,2026-02-06,2026-04-28,2026-04-05,2026-04-09,Delivered
+PO-26381,A1,S07,Process Piping,Process Piping,PVDF pipe (ft),1217,45.8,55738.6,2026-07-28,2026-09-20,2026-09-07,2026-09-10,Delivered
+PO-26382,A2,S08,Mechanical,Mechanical,Exhaust fan,16,10490.4,167846.4,2025-10-28,2025-12-17,2025-11-22,2025-11-26,Delivered
+PO-26383,A1,S09,Civil/Structural,General,Safety supplies kit,32,930.74,29783.68,2025-09-12,2025-11-22,2025-12-09,2025-12-11,Delivered
+PO-26384,A2,S10,Mechanical,Mechanical,Air handling unit,6,148095.85,888575.1,2026-06-06,2026-11-28,2026-11-03,,Open
+PO-26385,A1,S10,Mechanical,Mechanical,Cooling tower cell,1,232356.83,232356.83,2026-03-08,2026-08-14,2026-08-09,2026-08-13,Delivered
+PO-26386,A3,S08,Mechanical,Mechanical,Air handling unit,2,160763.91,321527.82,2025-11-16,2026-06-16,2026-05-19,2026-05-17,Delivered
+PO-26387,A1,S08,Mechanical,Mechanical,Air handling unit,2,142284.98,284569.96,2025-12-17,2026-06-21,2026-05-22,2026-05-23,Delivered
+PO-26388,A3,S01,Civil/Structural,Structural Steel,Roof deck panels,78,1335.67,104182.26,2026-01-21,2026-03-15,2026-02-20,2026-02-21,Delivered
+PO-26389,A2,S06,Process Piping,Process Piping,Isolation valve,106,2059.23,218278.38,2026-03-14,2026-05-02,2026-04-11,2026-04-12,Delivered
+PO-26390,A1,S10,Mechanical,Mechanical,Centrifugal chiller,1,567649.55,567649.55,2025-10-12,2026-04-10,2026-04-09,2026-04-08,Delivered
+PO-26391,A1,S10,Mechanical,Mechanical,Centrifugal chiller,1,604641.16,604641.16,2025-10-31,2026-04-26,2026-05-01,2026-05-03,Delivered
+PO-26392,A2,S07,Process Piping,Process Piping,Stainless pipe (ft),3115,57.54,179237.1,2025-11-10,2026-01-24,2026-02-13,2026-02-12,Delivered
+PO-26393,A5,S05,Mechanical,Mechanical,Air handling unit,4,143434.06,573736.24,2026-07-26,2026-11-23,2026-10-26,,Open
+PO-26394,A5,S10,Mechanical,Mechanical,Exhaust fan,25,9187.74,229693.5,2026-07-07,2026-08-29,2026-09-22,2026-09-21,Delivered
+PO-26395,A5,S09,Civil/Structural,General,Temporary power equipment,1,23118.26,23118.26,2025-12-29,2026-02-22,2026-02-11,2026-02-10,Delivered
+PO-26396,A1,S09,Process Piping,General,Scaffolding rental,6,13060.65,78363.9,2026-07-14,2026-09-10,2026-09-04,2026-09-02,Delivered
+PO-26397,A5,S03,Electrical,Electrical,Lighting panelboard,15,5581.64,83724.6,2026-08-16,2026-10-28,2026-10-10,,Open
+PO-26398,A4,S09,Process Piping,General,Temporary power equipment,2,23683.13,47366.26,2026-03-01,2026-05-21,2026-04-21,2026-04-22,Delivered
+PO-26399,A2,S08,Mechanical,Mechanical,Air handling unit,6,133173.78,799042.68,2026-06-08,2026-11-10,2027-01-31,,Open
+PO-26400,A3,S10,Mechanical,Mechanical,Pump skid,3,50488.63,151465.89,2026-08-21,2026-10-12,2026-10-08,,Open
+PO-26401,A2,S05,Mechanical,Mechanical,Cooling tower cell,3,228432.21,685296.63,2026-01-22,2026-08-04,2026-07-18,2026-07-20,Delivered
+PO-26402,A1,S08,Mechanical,Mechanical,Air handling unit,3,148201.67,444605.01,2026-02-07,2026-08-05,2026-07-20,2026-07-23,Delivered
+PO-26403,A5,S02,Civil/Structural,Concrete,Precast wall panels,20,6969.85,139397.0,2025-10-24,2025-12-11,2025-11-20,2025-11-24,Delivered
+PO-26404,A4,S01,Civil/Structural,Structural Steel,Steel columns,19,9878.98,187700.62,2025-11-16,2026-01-23,2025-12-30,2025-12-30,Delivered
+PO-26405,A5,S02,Civil/Structural,Concrete,Precast wall panels,13,6399.59,83194.67,2026-07-14,2026-09-28,2026-09-07,2026-09-11,Delivered
+PO-26406,A5,S08,Mechanical,Mechanical,Exhaust fan,7,10653.82,74576.74,2026-05-26,2026-07-08,2026-08-09,2026-08-11,Delivered
+PO-26407,A1,S04,Electrical,Electrical,Lighting panelboard,9,5629.19,50662.71,2025-09-03,2025-10-04,2025-09-27,2025-09-27,Delivered
+PO-26408,A3,S07,Process Piping,Process Piping,Isolation valve,57,1716.42,97835.94,2025-10-19,2025-12-21,2025-12-07,2025-12-07,Delivered
+PO-26409,A5,S05,Mechanical,Mechanical,Air handling unit,5,136705.35,683526.75,2026-06-24,2026-10-05,2026-11-30,,Open
+PO-26410,A2,S09,Electrical,General,Temporary power equipment,2,20366.32,40732.64,2026-06-05,2026-08-07,2026-07-25,2026-07-27,Delivered
+PO-26411,A2,S04,Electrical,Electrical,Cable tray (ft),3495,28.03,97964.85,2026-06-30,2026-08-04,2026-07-24,2026-07-25,Delivered
+PO-26412,A2,S04,Electrical,Electrical,Dry-type transformer,8,37647.88,301183.04,2026-06-04,2026-07-15,2026-06-18,2026-06-18,Delivered
+PO-26413,A1,S06,Process Piping,Process Piping,Stainless pipe (ft),4794,58.23,279154.62,2025-12-23,2026-02-24,2026-02-11,2026-02-12,Delivered
+PO-26414,A1,S04,Electrical,Electrical,Dry-type transformer,8,35928.67,287429.36,2026-01-08,2026-03-18,2026-03-13,2026-03-11,Delivered
+PO-26415,A5,S08,Mechanical,Mechanical,Pump skid,2,60959.34,121918.68,2026-05-07,2026-07-07,2026-07-24,2026-07-28,Delivered
+PO-26416,A2,S03,Electrical,Electrical,Lighting panelboard,11,5882.93,64712.23,2025-09-30,2025-12-16,2025-11-16,2025-11-18,Delivered
+PO-26417,A2,S03,Electrical,Electrical,Feeder cable (ft),14146,14.75,208653.5,2026-08-21,2026-09-09,2026-09-04,2026-09-06,Delivered
+PO-26418,A1,S06,Process Piping,Process Piping,Isolation valve,129,1788.23,230681.67,2026-01-18,2026-03-27,2026-03-03,2026-03-04,Delivered
+PO-26419,A2,S07,Process Piping,Process Piping,Control valve,25,7312.16,182804.0,2026-06-22,2026-08-06,2026-07-14,2026-07-17,Delivered
+PO-26420,A1,S04,Electrical,Electrical,Lighting panelboard,13,6099.52,79293.76,2025-11-18,2026-01-31,2026-02-01,2026-02-02,Delivered
+PO-26421,A1,S09,Civil/Structural,General,Scaffolding rental,9,15018.83,135169.47,2026-03-25,2026-05-11,2026-04-14,2026-04-18,Delivered
+PO-26422,A2,S02,Civil/Structural,Concrete,Rebar (tons),116,1052.86,122131.76,2026-06-15,2026-07-31,2026-07-27,2026-07-27,Delivered
+PO-26423,A2,S10,Mechanical,Mechanical,Air handling unit,4,151230.71,604922.84,2026-01-26,2026-06-25,2026-06-10,2026-06-14,Delivered
+PO-26424,A5,S02,Civil/Structural,Concrete,Rebar (tons),102,1102.23,112427.46,2025-11-27,2026-02-19,2026-01-20,2026-01-23,Delivered
+PO-26425,A1,S07,Process Piping,Process Piping,Stainless pipe (ft),2227,60.49,134711.23,2026-08-03,2026-10-01,2026-09-04,2026-09-04,Delivered
+PO-26426,A1,S06,Process Piping,Process Piping,Isolation valve,92,1898.22,174636.24,2025-09-14,2025-11-03,2025-10-06,2025-10-09,Delivered
+PO-26427,A1,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),360,152.24,54806.4,2026-05-03,2026-06-27,2026-07-21,2026-07-23,Delivered
+PO-26428,A3,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),428,154.14,65971.92,2026-03-21,2026-05-05,2026-04-23,2026-04-24,Delivered
+PO-26429,A3,S03,Electrical,Electrical,Lighting panelboard,21,5618.97,117998.37,2026-02-16,2026-04-20,2026-04-01,2026-04-03,Delivered
+PO-26430,A4,S09,Process Piping,General,Safety supplies kit,49,850.37,41668.13,2026-05-29,2026-08-16,2026-07-22,2026-07-23,Delivered
+PO-26431,A1,S02,Civil/Structural,Concrete,Rebar (tons),69,1089.75,75192.75,2025-09-08,2025-10-13,2025-09-22,2025-09-22,Delivered
+PO-26432,A4,S09,Electrical,General,Safety supplies kit,55,856.99,47134.45,2025-09-07,2025-11-17,2025-10-18,,Cancelled
+PO-26433,A2,S06,Process Piping,Process Piping,PVDF pipe (ft),2682,49.12,131739.84,2025-11-25,2026-02-20,2026-01-23,2026-01-22,Delivered
+PO-26434,A3,S07,Process Piping,Process Piping,PVDF pipe (ft),3059,51.65,157997.35,2026-08-24,2026-11-02,2026-10-20,,Open
+PO-26435,A2,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),338,152.51,51548.38,2026-04-22,2026-06-19,2026-05-23,,Cancelled
+PO-26436,A1,S01,Civil/Structural,Structural Steel,Wide-flange steel beams,18,7380.0,132840.0,2026-04-15,2026-06-19,2026-06-14,2026-06-12,Delivered
+PO-26437,A5,S06,Process Piping,Process Piping,Pipe supports,348,225.94,78627.12,2026-04-28,2026-07-25,2026-07-05,2026-07-09,Delivered
+PO-26438,A2,S03,Electrical,Electrical,Medium-voltage switchgear lineup,1,414259.77,414259.77,2025-12-04,2026-04-10,2026-03-28,2026-03-26,Delivered
+PO-26439,A4,S04,Electrical,Electrical,Feeder cable (ft),11929,13.96,166528.84,2025-09-20,2025-11-04,2025-10-16,2025-10-18,Delivered
+PO-26440,A5,S04,Electrical,Electrical,Feeder cable (ft),7802,15.56,121399.12,2025-11-23,2026-02-13,2026-02-25,2026-02-27,Delivered
+PO-26441,A5,S08,Mechanical,Mechanical,Cooling tower cell,1,251908.49,251908.49,2025-12-23,2026-04-18,2026-04-06,2026-04-04,Delivered
+PO-26442,A1,S05,Mechanical,Mechanical,Pump skid,3,60122.25,180366.75,2025-09-24,2025-12-14,2025-11-14,2025-11-14,Delivered
+PO-26443,A1,S04,Electrical,Electrical,Dry-type transformer,5,39934.5,199672.5,2026-07-20,2026-08-12,2026-08-20,2026-08-23,Delivered
+PO-26444,A2,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),591,160.0,94560.0,2026-07-30,2026-10-04,2026-09-04,2026-09-02,Delivered
+PO-26445,A3,S06,Process Piping,Process Piping,PVDF pipe (ft),2102,43.62,91689.24,2026-06-16,2026-08-09,2026-07-18,2026-07-20,Delivered
+PO-26446,A5,S06,Process Piping,Process Piping,Control valve,38,7108.23,270112.74,2026-06-13,2026-07-14,2026-07-07,2026-07-07,Delivered
+PO-26447,A2,S09,Mechanical,General,Temporary power equipment,2,23555.44,47110.88,2025-09-12,2025-11-20,2025-11-04,2025-11-04,Delivered
+PO-26448,A4,S09,Mechanical,General,Temporary power equipment,1,23106.81,23106.81,2026-07-13,2026-08-29,2026-08-14,2026-08-12,Delivered
+PO-26449,A5,S02,Civil/Structural,Concrete,Ready-mix concrete (CY),841,153.21,128849.61,2025-12-15,2026-01-24,2026-01-04,2026-01-06,Delivered
+PO-26450,A1,S07,Process Piping,Process Piping,Pipe supports,463,221.4,102508.2,2026-03-09,2026-04-30,2026-04-06,2026-04-05,Delivered

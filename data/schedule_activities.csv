@@ -1,0 +1,208 @@
+activity_id,area_id,discipline,activity_name,planned_start,planned_finish,actual_start,actual_finish,percent_complete,budget_cost
+ACT-0001,A1,Civil/Structural,Excavation - Phase 1,2025-09-25,2025-11-13,2025-09-30,2025-11-23,1.0,1178900.0
+ACT-0002,A1,Civil/Structural,Foundations - Phase 1,2025-12-25,2026-01-31,2025-12-26,2026-02-01,1.0,822100.0
+ACT-0003,A1,Civil/Structural,Steel erection - Phase 1,2026-05-20,2026-07-03,2026-05-23,2026-07-09,1.0,376600.0
+ACT-0004,A1,Civil/Structural,Roof deck install - Phase 1,2026-07-29,2026-10-04,2026-08-02,,0.85,266400.0
+ACT-0005,A1,Civil/Structural,Exterior wall panels - Phase 1,2026-10-03,2026-12-12,,,0.0,364600.0
+ACT-0006,A1,Civil/Structural,Excavation - Phase 2,2025-11-29,2026-01-26,2025-12-03,2026-01-30,1.0,709300.0
+ACT-0007,A1,Civil/Structural,Foundations - Phase 2,2026-02-07,2026-04-20,2026-02-10,2026-04-24,1.0,1080300.0
+ACT-0008,A1,Civil/Structural,Slab on grade - Phase 2,2026-04-17,2026-05-30,2026-04-20,2026-06-04,1.0,1389800.0
+ACT-0009,A1,Civil/Structural,Steel erection - Phase 2,2026-07-09,2026-08-06,2026-07-11,2026-08-11,1.0,1431400.0
+ACT-0010,A1,Civil/Structural,Exterior wall panels - Phase 2,2026-11-26,2027-01-20,,,0.0,798700.0
+ACT-0011,A1,Civil/Structural,Slab on grade - Phase 3,2026-06-03,2026-07-09,2026-06-04,2026-07-12,1.0,609600.0
+ACT-0012,A1,Civil/Structural,Steel erection - Phase 3,2026-08-18,2026-10-23,2026-08-25,,0.55,229300.0
+ACT-0013,A1,Civil/Structural,Roof deck install - Phase 3,2026-10-28,2026-12-25,,,0.0,970600.0
+ACT-0014,A1,Civil/Structural,Exterior wall panels - Phase 3,2027-01-09,2027-03-19,,,0.0,566700.0
+ACT-0015,A1,Mechanical,Set chillers - Phase 1,2025-09-26,2025-12-10,2025-09-29,2025-12-07,1.0,1138700.0
+ACT-0016,A1,Mechanical,HVAC piping - Phase 1,2026-06-20,2026-07-30,2026-06-26,2026-08-06,1.0,787200.0
+ACT-0017,A1,Mechanical,Equipment startup - Phase 1,2026-10-01,2026-11-22,,,0.0,246200.0
+ACT-0018,A1,Mechanical,Ductwork rough-in - Phase 2,2026-05-10,2026-07-04,2026-05-15,2026-07-16,1.0,651700.0
+ACT-0019,A1,Mechanical,Equipment startup - Phase 2,2026-11-18,2027-01-02,,,0.0,983700.0
+ACT-0020,A1,Mechanical,Set chillers - Phase 3,2026-01-18,2026-02-22,2026-01-25,2026-02-25,1.0,445900.0
+ACT-0021,A1,Mechanical,Ductwork rough-in - Phase 3,2026-07-10,2026-08-21,2026-07-12,2026-08-23,1.0,377900.0
+ACT-0022,A1,Mechanical,HVAC piping - Phase 3,2026-10-10,2026-12-08,,,0.0,319400.0
+ACT-0023,A1,Electrical,Underground duct bank - Phase 1,2025-09-25,2025-10-22,2025-09-28,2025-10-21,1.0,1098400.0
+ACT-0024,A1,Electrical,Set transformers - Phase 1,2026-02-27,2026-04-16,2026-03-01,2026-04-20,1.0,746200.0
+ACT-0025,A1,Electrical,Cable tray install - Phase 1,2026-05-11,2026-07-05,2026-05-13,2026-07-10,1.0,761800.0
+ACT-0026,A1,Electrical,Cable pull - Phase 1,2026-08-01,2026-08-23,2026-08-08,2026-08-29,1.0,463200.0
+ACT-0027,A1,Electrical,Underground duct bank - Phase 2,2025-11-12,2025-12-06,2025-11-17,2025-12-15,1.0,637900.0
+ACT-0028,A1,Electrical,Cable tray install - Phase 2,2026-07-05,2026-08-08,2026-07-09,2026-08-13,1.0,1413400.0
+ACT-0029,A1,Electrical,Cable pull - Phase 2,2026-09-07,2026-10-08,2026-09-09,,0.6,389000.0
+ACT-0030,A1,Electrical,Underground duct bank - Phase 3,2026-01-11,2026-02-21,2026-01-15,2026-02-25,1.0,770700.0
+ACT-0031,A1,Electrical,Set switchgear - Phase 3,2026-03-24,2026-05-15,2026-03-27,2026-05-23,1.0,489900.0
+ACT-0032,A1,Electrical,Set transformers - Phase 3,2026-06-06,2026-07-05,2026-06-11,2026-07-11,1.0,576500.0
+ACT-0033,A1,Electrical,Cable tray install - Phase 3,2026-08-31,2026-11-14,2026-09-05,,0.29,948600.0
+ACT-0034,A1,Electrical,Cable pull - Phase 3,2026-11-13,2026-12-24,,,0.0,717300.0
+ACT-0035,A1,Process Piping,Pipe rack install - Phase 1,2025-09-29,2025-12-13,2025-10-02,2025-12-17,1.0,309100.0
+ACT-0036,A1,Process Piping,Process piping install - Phase 1,2026-03-24,2026-05-03,2026-03-26,2026-05-07,1.0,217000.0
+ACT-0037,A1,Process Piping,Valve install - Phase 1,2026-06-16,2026-08-23,2026-06-20,,0.71,546100.0
+ACT-0038,A1,Process Piping,Valve install - Phase 2,2026-08-25,2026-10-01,2026-08-25,,0.84,922600.0
+ACT-0039,A1,Process Piping,Hydrotest - Phase 2,2026-11-18,2026-12-16,,,0.0,787000.0
+ACT-0040,A1,Process Piping,Pipe rack install - Phase 3,2026-01-07,2026-03-22,2026-01-08,2026-03-24,1.0,636300.0
+ACT-0041,A1,Process Piping,Utility piping - Phase 3,2026-04-01,2026-05-08,2026-04-03,2026-05-08,1.0,1374700.0
+ACT-0042,A1,Process Piping,Valve install - Phase 3,2026-10-10,2026-12-24,,,0.0,937600.0
+ACT-0043,A1,Process Piping,Hydrotest - Phase 3,2027-01-06,2027-02-20,,,0.0,1146400.0
+ACT-0044,A2,Civil/Structural,Excavation - Phase 1,2025-10-05,2025-12-03,2025-10-08,2025-12-11,1.0,850100.0
+ACT-0045,A2,Civil/Structural,Slab on grade - Phase 1,2026-02-19,2026-03-26,2026-02-25,2026-04-02,1.0,505300.0
+ACT-0046,A2,Civil/Structural,Steel erection - Phase 1,2026-05-04,2026-06-05,2026-05-09,2026-06-07,1.0,318800.0
+ACT-0047,A2,Civil/Structural,Roof deck install - Phase 1,2026-08-04,2026-08-27,2026-08-09,2026-08-29,1.0,645800.0
+ACT-0048,A2,Civil/Structural,Exterior wall panels - Phase 1,2026-10-01,2026-11-01,,,0.0,718600.0
+ACT-0049,A2,Civil/Structural,Excavation - Phase 2,2025-11-24,2026-01-09,2025-11-30,2026-01-20,1.0,345200.0
+ACT-0050,A2,Civil/Structural,Steel erection - Phase 2,2026-06-28,2026-09-01,2026-07-06,2026-09-11,1.0,681300.0
+ACT-0051,A2,Civil/Structural,Roof deck install - Phase 2,2026-09-17,2026-11-22,2026-09-24,,0.14,728700.0
+ACT-0052,A2,Civil/Structural,Exterior wall panels - Phase 2,2026-11-23,2027-01-03,,,0.0,543700.0
+ACT-0053,A2,Civil/Structural,Slab on grade - Phase 3,2026-05-31,2026-07-16,2026-05-31,,0.7,332600.0
+ACT-0054,A2,Civil/Structural,Steel erection - Phase 3,2026-08-18,2026-09-07,2026-08-24,2026-09-15,1.0,590500.0
+ACT-0055,A2,Civil/Structural,Exterior wall panels - Phase 3,2027-01-15,2027-02-17,,,0.0,562900.0
+ACT-0056,A2,Mechanical,Set chillers - Phase 1,2025-10-12,2025-12-09,2025-10-18,2025-12-17,1.0,85400.0
+ACT-0057,A2,Mechanical,Set AHUs - Phase 1,2025-12-21,2026-01-21,2025-12-25,2026-01-25,1.0,201600.0
+ACT-0058,A2,Mechanical,Ductwork rough-in - Phase 1,2026-03-29,2026-04-23,2026-04-03,2026-04-30,1.0,120200.0
+ACT-0059,A2,Mechanical,HVAC piping - Phase 1,2026-07-05,2026-08-30,2026-07-12,2026-09-06,1.0,725600.0
+ACT-0060,A2,Mechanical,Set AHUs - Phase 2,2026-02-21,2026-05-04,2026-02-27,2026-05-09,1.0,135500.0
+ACT-0061,A2,Mechanical,HVAC piping - Phase 2,2026-08-16,2026-10-08,2026-08-18,,0.67,419300.0
+ACT-0062,A2,Mechanical,Equipment startup - Phase 2,2026-11-23,2027-01-15,,,0.0,889500.0
+ACT-0063,A2,Mechanical,Set chillers - Phase 3,2026-01-11,2026-02-27,2026-01-17,2026-03-05,1.0,579300.0
+ACT-0064,A2,Mechanical,Set AHUs - Phase 3,2026-04-16,2026-06-08,2026-04-20,2026-06-17,1.0,677900.0
+ACT-0065,A2,Electrical,Underground duct bank - Phase 1,2025-09-26,2025-12-02,2025-09-29,,0.74,775400.0
+ACT-0066,A2,Electrical,Set switchgear - Phase 1,2025-12-26,2026-01-28,2025-12-29,2026-01-30,1.0,89300.0
+ACT-0067,A2,Electrical,Set transformers - Phase 1,2026-02-28,2026-05-08,2026-03-07,2026-05-15,1.0,85000.0
+ACT-0068,A2,Electrical,Cable tray install - Phase 1,2026-05-08,2026-06-09,2026-05-10,2026-06-16,1.0,351000.0
+ACT-0069,A2,Electrical,Underground duct bank - Phase 2,2025-11-29,2026-01-09,2025-12-03,,0.62,459200.0
+ACT-0070,A2,Electrical,Set switchgear - Phase 2,2026-02-04,2026-03-31,2026-02-08,2026-04-06,1.0,519400.0
+ACT-0071,A2,Electrical,Cable pull - Phase 2,2026-09-25,2026-11-18,,,0.0,770800.0
+ACT-0072,A2,Electrical,Set switchgear - Phase 3,2026-03-26,2026-05-30,2026-03-29,2026-05-29,1.0,783400.0
+ACT-0073,A2,Electrical,Set transformers - Phase 3,2026-06-08,2026-07-11,2026-06-10,2026-07-11,1.0,510600.0
+ACT-0074,A2,Electrical,Cable tray install - Phase 3,2026-08-12,2026-10-22,2026-08-19,,0.56,475800.0
+ACT-0075,A2,Process Piping,Pipe rack install - Phase 1,2025-09-26,2025-12-07,2025-10-01,,0.67,885500.0
+ACT-0076,A2,Process Piping,Utility piping - Phase 1,2026-01-05,2026-02-01,2026-01-07,2026-02-04,1.0,83400.0
+ACT-0077,A2,Process Piping,Process piping install - Phase 1,2026-03-20,2026-04-15,2026-03-24,2026-04-21,1.0,506900.0
+ACT-0078,A2,Process Piping,Valve install - Phase 1,2026-06-26,2026-07-28,2026-06-29,2026-08-02,1.0,237900.0
+ACT-0079,A2,Process Piping,Process piping install - Phase 2,2026-05-25,2026-06-20,2026-05-28,2026-06-24,1.0,249400.0
+ACT-0080,A2,Process Piping,Pipe rack install - Phase 3,2026-01-12,2026-03-07,2026-01-17,2026-03-15,1.0,443800.0
+ACT-0081,A2,Process Piping,Utility piping - Phase 3,2026-04-03,2026-05-20,2026-04-09,2026-05-27,1.0,401400.0
+ACT-0082,A2,Process Piping,Process piping install - Phase 3,2026-07-09,2026-09-19,2026-07-12,2026-09-21,1.0,242500.0
+ACT-0083,A2,Process Piping,Hydrotest - Phase 3,2027-01-07,2027-02-02,,,0.0,453600.0
+ACT-0084,A3,Civil/Structural,Excavation - Phase 1,2025-10-08,2025-11-11,2025-10-11,2025-11-14,1.0,856900.0
+ACT-0085,A3,Civil/Structural,Slab on grade - Phase 1,2026-02-28,2026-05-09,2026-03-03,2026-05-07,1.0,785800.0
+ACT-0086,A3,Civil/Structural,Steel erection - Phase 1,2026-05-17,2026-07-30,2026-05-21,2026-07-28,1.0,220100.0
+ACT-0087,A3,Civil/Structural,Roof deck install - Phase 1,2026-07-19,2026-08-28,2026-07-24,2026-09-03,1.0,536000.0
+ACT-0088,A3,Civil/Structural,Exterior wall panels - Phase 1,2026-10-17,2026-11-21,,,0.0,529300.0
+ACT-0089,A3,Civil/Structural,Slab on grade - Phase 2,2026-04-22,2026-07-01,2026-04-25,2026-07-04,1.0,883800.0
+ACT-0090,A3,Civil/Structural,Steel erection - Phase 2,2026-06-25,2026-08-31,2026-07-01,2026-09-04,1.0,843300.0
+ACT-0091,A3,Civil/Structural,Excavation - Phase 3,2026-01-11,2026-02-25,2026-01-15,2026-03-02,1.0,137100.0
+ACT-0092,A3,Civil/Structural,Foundations - Phase 3,2026-03-18,2026-04-12,2026-03-21,2026-04-21,1.0,258400.0
+ACT-0093,A3,Civil/Structural,Roof deck install - Phase 3,2026-11-06,2027-01-04,,,0.0,553900.0
+ACT-0094,A3,Civil/Structural,Exterior wall panels - Phase 3,2027-01-17,2027-03-14,,,0.0,731400.0
+ACT-0095,A3,Mechanical,Set chillers - Phase 1,2025-10-04,2025-10-29,2025-10-06,2025-10-27,1.0,557800.0
+ACT-0096,A3,Mechanical,Set AHUs - Phase 1,2026-01-06,2026-01-29,2026-01-07,,0.64,80700.0
+ACT-0097,A3,Mechanical,HVAC piping - Phase 1,2026-06-28,2026-08-27,2026-07-01,2026-09-02,1.0,340900.0
+ACT-0098,A3,Mechanical,Set AHUs - Phase 2,2026-02-20,2026-05-04,2026-02-22,2026-05-03,1.0,422100.0
+ACT-0099,A3,Mechanical,Equipment startup - Phase 2,2026-11-18,2027-01-19,,,0.0,438100.0
+ACT-0100,A3,Mechanical,Set AHUs - Phase 3,2026-04-15,2026-06-24,2026-04-20,2026-06-27,1.0,650200.0
+ACT-0101,A3,Mechanical,Ductwork rough-in - Phase 3,2026-07-13,2026-08-26,2026-07-18,2026-09-03,1.0,371400.0
+ACT-0102,A3,Mechanical,HVAC piping - Phase 3,2026-10-12,2026-11-18,,,0.0,416900.0
+ACT-0103,A3,Electrical,Set switchgear - Phase 1,2025-12-17,2026-01-13,2025-12-23,2026-01-21,1.0,555800.0
+ACT-0104,A3,Electrical,Set transformers - Phase 1,2026-02-26,2026-04-16,2026-03-01,2026-04-19,1.0,503900.0
+ACT-0105,A3,Electrical,Cable tray install - Phase 1,2026-05-05,2026-07-07,2026-05-07,2026-07-08,1.0,599600.0
+ACT-0106,A3,Electrical,Cable pull - Phase 1,2026-07-31,2026-09-18,2026-08-03,2026-09-24,1.0,500400.0
+ACT-0107,A3,Electrical,Set switchgear - Phase 2,2026-02-13,2026-04-21,2026-02-18,2026-04-27,1.0,329300.0
+ACT-0108,A3,Electrical,Cable pull - Phase 2,2026-09-24,2026-10-15,2026-09-23,,0.04,315200.0
+ACT-0109,A3,Electrical,Terminations - Phase 2,2026-11-26,2027-02-08,,,0.0,290700.0
+ACT-0110,A3,Electrical,Set switchgear - Phase 3,2026-03-21,2026-05-22,2026-03-24,2026-05-27,1.0,446300.0
+ACT-0111,A3,Electrical,Cable tray install - Phase 3,2026-08-13,2026-09-23,2026-08-16,2026-09-22,1.0,886900.0
+ACT-0112,A3,Electrical,Cable pull - Phase 3,2026-11-01,2027-01-02,,,0.0,441000.0
+ACT-0113,A3,Electrical,Terminations - Phase 3,2027-01-19,2027-02-11,,,0.0,606700.0
+ACT-0114,A3,Process Piping,Utility piping - Phase 1,2026-01-04,2026-02-12,2026-01-07,2026-02-15,1.0,470500.0
+ACT-0115,A3,Process Piping,Process piping install - Phase 1,2026-04-03,2026-05-09,2026-04-07,2026-05-14,1.0,199000.0
+ACT-0116,A3,Process Piping,Hydrotest - Phase 1,2026-09-14,2026-10-10,2026-09-19,,0.46,832500.0
+ACT-0117,A3,Process Piping,Pipe rack install - Phase 2,2025-11-20,2025-12-31,2025-11-25,2026-01-04,1.0,301700.0
+ACT-0118,A3,Process Piping,Utility piping - Phase 2,2026-02-16,2026-04-23,2026-02-19,2026-04-27,1.0,630900.0
+ACT-0119,A3,Process Piping,Process piping install - Phase 2,2026-05-09,2026-07-21,2026-05-14,2026-07-25,1.0,135700.0
+ACT-0120,A3,Process Piping,Valve install - Phase 3,2026-10-02,2026-11-29,,,0.0,603200.0
+ACT-0121,A4,Civil/Structural,Excavation - Phase 1,2025-10-05,2025-12-06,2025-10-06,2025-12-10,1.0,706400.0
+ACT-0122,A4,Civil/Structural,Steel erection - Phase 1,2026-05-05,2026-07-04,2026-05-09,2026-07-08,1.0,451800.0
+ACT-0123,A4,Civil/Structural,Excavation - Phase 2,2025-11-24,2026-01-07,2025-11-28,,0.69,352800.0
+ACT-0124,A4,Civil/Structural,Foundations - Phase 2,2026-01-31,2026-03-31,2026-02-05,2026-04-03,1.0,402000.0
+ACT-0125,A4,Civil/Structural,Slab on grade - Phase 2,2026-04-12,2026-05-30,2026-04-18,2026-06-11,1.0,666600.0
+ACT-0126,A4,Civil/Structural,Steel erection - Phase 2,2026-07-08,2026-08-06,2026-07-13,2026-08-10,1.0,615300.0
+ACT-0127,A4,Civil/Structural,Roof deck install - Phase 2,2026-09-17,2026-11-12,2026-09-21,,0.15,83000.0
+ACT-0128,A4,Civil/Structural,Exterior wall panels - Phase 2,2026-11-20,2027-01-13,,,0.0,265200.0
+ACT-0129,A4,Civil/Structural,Excavation - Phase 3,2026-01-17,2026-02-13,2026-01-21,2026-02-18,1.0,545100.0
+ACT-0130,A4,Civil/Structural,Slab on grade - Phase 3,2026-06-19,2026-07-14,2026-06-22,2026-07-19,1.0,379600.0
+ACT-0131,A4,Civil/Structural,Roof deck install - Phase 3,2026-11-06,2027-01-07,,,0.0,236600.0
+ACT-0132,A4,Civil/Structural,Exterior wall panels - Phase 3,2027-01-19,2027-03-11,,,0.0,149600.0
+ACT-0133,A4,Mechanical,HVAC piping - Phase 1,2026-06-23,2026-08-13,2026-06-28,2026-08-19,1.0,398800.0
+ACT-0134,A4,Mechanical,Equipment startup - Phase 1,2026-09-13,2026-10-05,2026-09-15,,0.53,358200.0
+ACT-0135,A4,Mechanical,Set AHUs - Phase 2,2026-02-25,2026-04-15,2026-03-03,2026-04-18,1.0,850900.0
+ACT-0136,A4,Mechanical,Ductwork rough-in - Phase 2,2026-05-10,2026-07-16,2026-05-12,2026-07-19,1.0,196100.0
+ACT-0137,A4,Mechanical,HVAC piping - Phase 2,2026-08-10,2026-08-30,2026-08-14,2026-09-02,1.0,221200.0
+ACT-0138,A4,Mechanical,Set chillers - Phase 3,2026-01-05,2026-02-01,2026-01-08,2026-02-01,1.0,487700.0
+ACT-0139,A4,Mechanical,Set AHUs - Phase 3,2026-04-13,2026-05-23,2026-04-15,2026-05-28,1.0,179100.0
+ACT-0140,A4,Electrical,Set switchgear - Phase 1,2025-12-11,2026-02-13,2025-12-16,2026-02-21,1.0,383300.0
+ACT-0141,A4,Electrical,Cable tray install - Phase 1,2026-05-22,2026-07-05,2026-05-24,2026-07-08,1.0,717700.0
+ACT-0142,A4,Electrical,Cable pull - Phase 1,2026-08-05,2026-10-01,2026-08-09,,0.87,807300.0
+ACT-0143,A4,Electrical,Underground duct bank - Phase 2,2025-11-28,2026-01-15,2025-12-02,2026-01-13,1.0,417900.0
+ACT-0144,A4,Electrical,Set switchgear - Phase 2,2026-02-13,2026-03-10,2026-02-17,2026-03-08,1.0,594300.0
+ACT-0145,A4,Electrical,Cable tray install - Phase 2,2026-06-26,2026-08-24,2026-06-29,2026-08-28,1.0,376800.0
+ACT-0146,A4,Electrical,Cable pull - Phase 2,2026-09-11,2026-10-18,2026-09-17,,0.31,123500.0
+ACT-0147,A4,Electrical,Underground duct bank - Phase 3,2026-01-03,2026-01-26,2026-01-08,2026-02-01,1.0,608800.0
+ACT-0148,A4,Electrical,Set switchgear - Phase 3,2026-03-31,2026-04-22,2026-04-01,2026-04-25,1.0,165600.0
+ACT-0149,A4,Electrical,Set transformers - Phase 3,2026-06-01,2026-07-06,2026-06-03,2026-07-05,1.0,671600.0
+ACT-0150,A4,Electrical,Cable tray install - Phase 3,2026-08-22,2026-09-25,2026-08-24,2026-09-25,1.0,160400.0
+ACT-0151,A4,Electrical,Cable pull - Phase 3,2026-11-09,2026-12-02,,,0.0,810200.0
+ACT-0152,A4,Electrical,Terminations - Phase 3,2027-01-20,2027-03-04,,,0.0,191900.0
+ACT-0153,A4,Process Piping,Pipe rack install - Phase 1,2025-10-01,2025-11-02,2025-10-05,2025-11-05,1.0,355400.0
+ACT-0154,A4,Process Piping,Utility piping - Phase 1,2026-01-03,2026-02-18,2026-01-07,2026-02-28,1.0,220400.0
+ACT-0155,A4,Process Piping,Process piping install - Phase 1,2026-04-07,2026-05-07,2026-04-13,2026-05-11,1.0,554100.0
+ACT-0156,A4,Process Piping,Valve install - Phase 1,2026-06-22,2026-08-18,2026-06-25,2026-08-21,1.0,468300.0
+ACT-0157,A4,Process Piping,Pipe rack install - Phase 2,2025-11-30,2025-12-29,2025-11-30,2025-12-29,1.0,829300.0
+ACT-0158,A4,Process Piping,Utility piping - Phase 2,2026-02-25,2026-03-19,2026-02-28,2026-03-25,1.0,429100.0
+ACT-0159,A4,Process Piping,Process piping install - Phase 2,2026-05-11,2026-07-05,2026-05-12,2026-07-05,1.0,697500.0
+ACT-0160,A4,Process Piping,Hydrotest - Phase 2,2026-11-05,2026-11-26,,,0.0,473400.0
+ACT-0161,A4,Process Piping,Pipe rack install - Phase 3,2026-01-20,2026-03-28,2026-01-23,2026-03-27,1.0,558600.0
+ACT-0162,A4,Process Piping,Utility piping - Phase 3,2026-04-12,2026-06-11,2026-04-15,2026-06-14,1.0,460700.0
+ACT-0163,A4,Process Piping,Hydrotest - Phase 3,2027-01-01,2027-03-06,,,0.0,855800.0
+ACT-0164,A5,Civil/Structural,Excavation - Phase 1,2025-09-25,2025-11-23,2025-10-05,2025-12-07,1.0,802300.0
+ACT-0165,A5,Civil/Structural,Slab on grade - Phase 1,2026-03-09,2026-03-31,2026-03-16,2026-04-08,1.0,379800.0
+ACT-0166,A5,Civil/Structural,Steel erection - Phase 1,2026-05-07,2026-06-17,2026-05-16,2026-07-06,1.0,275700.0
+ACT-0167,A5,Civil/Structural,Roof deck install - Phase 1,2026-07-23,2026-09-01,2026-07-30,,0.7,369200.0
+ACT-0168,A5,Civil/Structural,Excavation - Phase 2,2025-11-28,2026-02-09,2025-12-10,,0.79,180600.0
+ACT-0169,A5,Civil/Structural,Foundations - Phase 2,2026-01-27,2026-02-28,2026-02-02,2026-03-06,1.0,811400.0
+ACT-0170,A5,Civil/Structural,Roof deck install - Phase 2,2026-09-20,2026-10-19,2026-09-20,,0.14,797500.0
+ACT-0171,A5,Civil/Structural,Exterior wall panels - Phase 2,2026-12-03,2027-01-14,,,0.0,424500.0
+ACT-0172,A5,Civil/Structural,Slab on grade - Phase 3,2026-06-06,2026-08-18,2026-06-17,2026-09-05,1.0,856900.0
+ACT-0173,A5,Civil/Structural,Steel erection - Phase 3,2026-08-28,2026-11-09,2026-09-08,,0.31,529700.0
+ACT-0174,A5,Civil/Structural,Roof deck install - Phase 3,2026-11-01,2026-12-21,,,0.0,385000.0
+ACT-0175,A5,Mechanical,Set AHUs - Phase 1,2026-01-08,2026-02-07,2026-01-15,,0.89,663700.0
+ACT-0176,A5,Mechanical,Equipment startup - Phase 1,2026-10-01,2026-10-29,,,0.0,441500.0
+ACT-0177,A5,Mechanical,Set chillers - Phase 2,2025-11-13,2026-01-14,2025-11-24,2026-02-05,1.0,339900.0
+ACT-0178,A5,Mechanical,Ductwork rough-in - Phase 2,2026-05-21,2026-07-11,2026-06-01,,0.65,710200.0
+ACT-0179,A5,Mechanical,HVAC piping - Phase 2,2026-08-16,2026-10-16,2026-08-26,,0.52,658500.0
+ACT-0180,A5,Mechanical,Equipment startup - Phase 2,2026-11-17,2026-12-28,,,0.0,645100.0
+ACT-0181,A5,Mechanical,Set AHUs - Phase 3,2026-04-10,2026-05-01,2026-04-14,2026-05-02,1.0,409300.0
+ACT-0182,A5,Mechanical,Ductwork rough-in - Phase 3,2026-07-05,2026-08-31,2026-07-14,,0.67,511700.0
+ACT-0183,A5,Mechanical,HVAC piping - Phase 3,2026-09-28,2026-11-19,,,0.0,403400.0
+ACT-0184,A5,Mechanical,Equipment startup - Phase 3,2026-12-25,2027-02-25,,,0.0,376100.0
+ACT-0185,A5,Electrical,Underground duct bank - Phase 1,2025-10-04,2025-10-24,2025-10-07,,0.91,313400.0
+ACT-0186,A5,Electrical,Set switchgear - Phase 1,2025-12-20,2026-02-25,2026-01-01,2026-03-17,1.0,893900.0
+ACT-0187,A5,Electrical,Set transformers - Phase 1,2026-02-22,2026-05-06,2026-03-11,2026-05-31,1.0,561500.0
+ACT-0188,A5,Electrical,Cable pull - Phase 1,2026-07-28,2026-08-22,2026-08-04,2026-08-28,1.0,85400.0
+ACT-0189,A5,Electrical,Terminations - Phase 1,2026-10-02,2026-11-03,,,0.0,232500.0
+ACT-0190,A5,Electrical,Underground duct bank - Phase 2,2025-11-21,2026-02-02,2025-12-01,,0.68,559900.0
+ACT-0191,A5,Electrical,Set transformers - Phase 2,2026-04-29,2026-06-18,2026-05-08,2026-07-02,1.0,181800.0
+ACT-0192,A5,Electrical,Cable tray install - Phase 2,2026-06-23,2026-07-20,2026-07-01,,0.81,707100.0
+ACT-0193,A5,Electrical,Cable pull - Phase 2,2026-09-18,2026-12-02,2026-09-20,,0.11,291500.0
+ACT-0194,A5,Electrical,Terminations - Phase 2,2026-11-18,2027-01-31,,,0.0,292800.0
+ACT-0195,A5,Electrical,Set switchgear - Phase 3,2026-03-21,2026-05-02,2026-03-28,2026-05-15,1.0,213900.0
+ACT-0196,A5,Electrical,Cable tray install - Phase 3,2026-08-14,2026-10-05,2026-08-23,,0.69,238900.0
+ACT-0197,A5,Electrical,Cable pull - Phase 3,2026-11-04,2027-01-15,,,0.0,772900.0
+ACT-0198,A5,Electrical,Terminations - Phase 3,2027-01-19,2027-02-14,,,0.0,518200.0
+ACT-0199,A5,Process Piping,Utility piping - Phase 1,2025-12-31,2026-03-10,2026-01-14,,0.64,477600.0
+ACT-0200,A5,Process Piping,Hydrotest - Phase 1,2026-10-02,2026-12-05,,,0.0,761800.0
+ACT-0201,A5,Process Piping,Pipe rack install - Phase 2,2025-11-15,2025-12-31,2025-11-25,,0.92,457600.0
+ACT-0202,A5,Process Piping,Process piping install - Phase 2,2026-05-23,2026-07-20,2026-05-29,2026-08-03,1.0,509000.0
+ACT-0203,A5,Process Piping,Valve install - Phase 2,2026-08-13,2026-09-10,2026-08-18,2026-09-17,1.0,782600.0
+ACT-0204,A5,Process Piping,Hydrotest - Phase 2,2026-11-16,2027-01-19,,,0.0,705700.0
+ACT-0205,A5,Process Piping,Pipe rack install - Phase 3,2026-01-15,2026-02-06,2026-01-20,,0.81,241000.0
+ACT-0206,A5,Process Piping,Utility piping - Phase 3,2026-04-02,2026-04-26,2026-04-09,2026-05-01,1.0,327300.0
+ACT-0207,A5,Process Piping,Process piping install - Phase 3,2026-07-05,2026-08-05,2026-07-14,2026-08-21,1.0,629900.0
