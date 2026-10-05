@@ -57,7 +57,7 @@ The full written summary is in [`Report Summary`](Report/Weekly_Project_Controls
 
 **Report features:** Area (multi-select) and Week Ending parameters, grouped page breaks, conditional formatting, repeating table headers, and PDF export.
 
-The exported report is in [`report/SonoranFab_Weekly_Report_2026-09-25.pdf`](Report/SonoranFab_Weekly_Report.pdf).
+The exported report is in [`Full Report File`](Report/SonoranFab_Weekly_Report.pdf).
 
 ---
 
