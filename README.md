@@ -6,7 +6,7 @@ Built with **SQL Server**, **Power BI Report Builder** (paginated reports), and 
 
 > All data in this project is simulated. The project, suppliers, and people are fictional.
 
-![Project summary page](screenshots/page1_summary.png)
+![Project summary page](Screenshots/page1_summary.png)
 
 ---
 
@@ -43,7 +43,7 @@ The full written summary is in [`report/Findings_Summary_2026-09-25.pdf`](report
 
 ## The report
 
-![Area detail page](screenshots/area_page_fab_building.png)
+![Area detail page](Screenshots/area_page_fab_building.png)
 
 **Page 1: Project summary**
 - Headline KPIs: project CPI, SPI, cost variance, and estimate at completion
