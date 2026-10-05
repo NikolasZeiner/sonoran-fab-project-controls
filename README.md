@@ -37,7 +37,7 @@ This report answers all three on a single summary page, followed by a detailed p
 - Meet with the Wastewater Treatment team on a recovery schedule for the 11 past-due activities.
 - Escalate PO-26173 with Pinnacle this week, and confirm delivery dates with Canyon HVAC on its $4.3 million in at-risk equipment.
 
-The full written summary is in [`report/Findings_Summary_2026-09-25.pdf`](report/Findings_Summary_2026-09-25.pdf).
+The full written summary is in [`report/Findings_Summary_2026-09-25.pdf`](report/Weekly_Project_Controls_Summarypdf).
 
 ---
 
